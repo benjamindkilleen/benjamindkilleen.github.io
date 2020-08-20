@@ -33,7 +33,7 @@ we use a foot-pedal trollling motor powered by a car battery. Once, my dad hooke
 wrong, and we couldn't figure out why we were having such a hard time getting Tillythe boat to go
 forward. But most of the time, we trawl effortlessly from cove to cove, the envy of every fishing
 kayak we pass. We were once in their shoes, before Tilly, with less space and greater patience. Yet
-for all our plumage, fishmen care about just one thing.
+for all our plumage, fishermen care about just one thing.
 
 "Any luck?" they ask.
 

@@ -1,6 +1,6 @@
 ---
 title: 'How to go Casting (As Opposed to Fishing)'
-date: 2020-08-18
+date: 2020-08-20
 permalink: /posts/2020/08/how-to-go-casting/
 tags:
   - fishing

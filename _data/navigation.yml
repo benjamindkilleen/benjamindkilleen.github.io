@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: https://benjamindkilleen.com/files/cv.pdf
 
-  # - title: "Blog"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: /year-archive/
     
   # - title: "Guide"
   #   url: /markdown/

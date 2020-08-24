@@ -1,5 +1,5 @@
 ---
-title: How to go Casting'
+title: 'How to go Casting'
 date: 2020-08-24
 permalink: /posts/2020/08/how-to-go-casting/
 tags:
@@ -51,12 +51,13 @@ and my writing. He mentions he's been running with my sister. I've gotten into b
 counseling practice is looking for a bigger space. A paper that I worked on was just published. He
 talks about the marriage workshop he taught with Mom and how it went well. I tell him about the
 woman I'm dating, and did he ever really know what he was doing, at twenty-three? "Not at all," he
-says. Mostly, we just talk.
+says. 
 
-With so few fish to compare our skills, Dad and I make a game of casting. We like to think it makes
-us better at fishing, but we haven't carried out any controlled experiment. The game is simple. As
-we cruise around with our trolling motor, we cast as close as we can to the shore. The trick is not
-to get hooked on a low-hanging branch or submerged log, which one accomplishes by flicking the
-wrist and flipping the bail just so. The game stems from our competitive natures, I know, but it
-also creates a space for long conversations. It results in many snags, few fish, and a great sense
-of accomplishment.
+Mostly, we just talk.
+
+Over the years, Dad and I have made a game of casting. We like to think it makes us better at
+fishing, but we haven't carried out any controlled experiment. The game is simple. As we cruise
+around with our trolling motor, we cast as close as we can to the shore. The trick is not to get
+hooked on a branch, which one accomplishes by flicking the wrist and flipping the bail just so. The
+game stems from our competitive natures, I know, but it also creates a space for long
+conversations. It results in many snags, few fish, and a great sense of accomplishment.

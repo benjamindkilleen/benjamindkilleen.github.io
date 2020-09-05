@@ -13,7 +13,7 @@ main:
   #   url: /portfolio/
         
   - title: "CV"
-    url: https://benjamindkilleen.com/files/cv.pdf
+    url: /files/cv.pdf
 
   - title: "Blog"
     url: /year-archive/

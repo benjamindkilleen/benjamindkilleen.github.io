@@ -3,43 +3,45 @@ layout: single
 title:  "How to Hold Office Hours"
 categories: 
 tags:
-  - Chicago
-  - writing
+  - How To
 ---
 
-Professor O'Leary wore the kind of glasses that can only be described as spectacles, underneath a
-wide brimmed hat much like a wizard's. It was actually a modest bucket hat. Yet the man was so much
-like a wizard himself that the conical cap seems just as likely and better suited to him in my
-mind.
+I remember Professor O'Leary wore circular spectacles and a wide brimmed wizard's hat whenever I
+saw him. Probably, it was a modest bucket hat, yet the man was so much like a wizard himself that
+a gray conical cap seems just as likely and better suited to him.
 
-Peter O'Leary, whom I would call "Professor O'Leary" except for his own stated preference, spent
-his Tuesdays teaching creative writing at the University of Chicago. He taught a number of writing
-and poetry courses, including the esoteric "Ecopoetics," the succinctly titled "Wizards," and
-"Intro to Genres: Science Fiction." I myself managed to secure a seat in the latter two, first by
-finagling the registration system (second years get priority for arts classes) and later by
-emailing Peter two minutes after classes dropped, thereby earning the top spot on a very lengthy
-waitlist.
+Peter, as he preferred to be called, spent Tuesdays at UChicago. He taught a number of courses in
+creative writing, including the succinctly titled "Wizards," and a much beloved "Intro to Genres:
+Science Fiction." Among the undergrads, "Wizards" and "Sci-fi" had an awe-inducing reputation and a
+lengthy waiting list. I just barely managed to secure a seat in both, first by carefully planning
+my schedule (second years get priority for arts classes) and later by emailing Peter two minutes
+after classes dropped, thereby slipping in despite being halfway through fourth year.
 
-The courses were highly sought after, but not for the usual reasons. UChicago students tended to
-prefer easier offerings to satisfy their arts requirement, like "East Asian Art History" or "Taps."
-According to my roommate, the drama class consisted of three enjoyable hours with a notable lack of
-weekly readings. Peter O'Leary didn't bother himself with such courses. He understood that already
-burnt-out students opted into fifty page readings and workshopped writing assignments each week not
-out of anticipation for whatever knowledge the workload imparted upon them but because they
-couldn't wait to get started. Peter's student each had a story to tell. Some of them were English
-majors, but just as many belonged to Computer Science or pre-med. We didn't have the energy,
-between implementing bread-first-search *before* learning the C programming language and figuring
-out what Hobbes meant by the "State of Nature," to write our stories, much less workshop and edit
-them. "Wizards" let us apply the same rigor to old sages with walking staffs and pointy hats as we
-did to delta-epsilon proofs on dusty chalkboards. While Intermediate Mechanic introduced first
-order constraints, "Science Fiction" gave us free reign of the cosmos. During first week, Peter
-started each course by asking everyone what they studied. He seemed to smile more broadly, somehow,
-whenever the answer had nothing whatsoever to do with creative writing.
+Indeed, Peter's courses were highly sought-after but not for the usual reasons. Already-burnt out
+pre-meds and comp-sci majors preferred to fill our arts requirement with something easy. We felt we
+had insufficient energy, between lab reports and breadth-first-search and fiuring out what Hobbes
+meant by the "State of Nature," to take on an unnecessary challenge. Art History reportedly
+involved rote memorization. The drama course "Taps" had an almost legendary dearth of weekly
+readings. Wizards, on the other hand, assigned a different book each Tuesday, on top of the writing
+assignments for workshop, and sci-fi had an even heavier workload. Yet Peter's waitlist was never
+empty, and his students couldn't wait to get started.
 
-Peter O'Leary taught his courses unlike any other professor I knew. In both classes, he conducted
-on-on-one meetings with every student while walking around the Midway, a twenty-five or thirty
-minute circuit, in all manner of purportedly unpleasant Chicago weather. He discussed our work. He
-asked about our personal lives. Somehow, these were seldom unrelated.
+I think the pre-meds and comp-sci majors needed a class like Wizards. We needed to create a space,
+within the highly structured world of academia, for something we loved. I allowed us to think about
+old sages with walking staffs and pointy hats with the same rigor as delta-epsilon proofs on dusty
+chalkboards. While Intermediate Mechanics introduced first order constraints, Sci-fi gave us free
+reign of the cosmos. Peter understood these students. He welcomed us with a delighted grin.
+
+In both classes, the professor conducted on-on-one meetings with every student. Lacking an office,
+he invited us on a brisk walk around the Midway, a twenty-five or thirty minute circuit, in all
+manner of purportedly unpleasant Chicago weather. He apologized for the snow and asked about our
+hometowns, our novels-in-progress. As we shivered in the wind,...
+
+Peter O'Leary possessed that rare quality, which is so common among authors yet so rare among
+profesors, of being an excellent listener.
+
+...
+
 
 For the final project, Peter required a polished portfolio based on the rough drafts written over
 the quarter, but he encouraged his students to forego this option entirely. Instead, we could

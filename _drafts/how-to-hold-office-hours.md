@@ -8,33 +8,34 @@ tags:
   - Chicago
 ---
 
-# Part I: Listening
+# Part I: How to Hold Office Hours
 
-I remember Professor O'Leary wore circular spectacles and a wide brimmed wizard's hat whenever I
-saw him. Probably, it was a modest bucket hat, yet the man was so much like a wizard himself that
-a gray conical cap seems just as likely and better suited to him.
+Professor O'Leary wore circular spectacles and a wide brimmed wizard's hat. Probably, it was a
+modest bucket hat, but the man was so much like a wizard himself that a gray conical cap seems just
+as likely in my mind.
 
-Peter, as he preferred to be called, spent Tuesdays at UChicago. He taught a number of courses in
+Peter, as he preferred to be called, spent Tuesdays on campus. He taught a number of courses in
 creative writing, including the succinctly titled "Wizards," and a much beloved "Intro to Genres:
 Science Fiction." Among the undergrads, "Wizards" and "Sci-fi" had an awe-inducing reputation and a
 lengthy waiting list. I just barely managed to secure a seat in both, first by carefully planning
-my schedule (second years get priority for arts classes) and later by emailing Peter two minutes
-after classes dropped, thereby slipping in despite being halfway through fourth year.
+my schedule (second years get priority for the arts) and later by emailing Peter two minutes after
+classes dropped, thereby slipping in despite being halfway through fourth year.
 
-Indeed, Peter's courses were highly sought-after but not for the usual reasons. Already-burnt out
+Indeed, Peter's courses were highly sought-after but not for the usual reasons. Already burnt out
 pre-meds and comp-sci majors preferred to fill our arts requirement with something easy. We felt we
 had insufficient energy, between lab reports and breadth-first-search and fiuring out what Hobbes
 meant by the "State of Nature," to take on an unnecessary challenge. Art History reportedly
 involved rote memorization. The drama course "Taps" had an almost legendary dearth of weekly
 readings. Wizards, on the other hand, assigned a different book each Tuesday, on top of the writing
 assignments for workshop, and sci-fi had an even heavier workload. Yet Peter's waitlist was never
-empty, and his students couldn't wait to get started.
+empty.
 
-I think the pre-meds and comp-sci majors needed a class like Wizards. We needed to create a space,
-within the highly structured world of academia, for something we loved. I allowed us to think about
-old sages with walking staffs and pointy hats with the same rigor as delta-epsilon proofs on dusty
-chalkboards. While Intermediate Mechanics introduced first order constraints, Sci-fi gave us free
-reign of the cosmos. Peter understood these students. He welcomed us with a delighted grin.
+In a way, the pre-meds and comp-sci majors desperately needed a class like Wizards. We needed to
+create a space, within the highly structured world of academia, for something we loved. I allowed
+us to think about old sages with walking staffs and pointy hats with the same rigor as
+delta-epsilon proofs on dusty chalkboards. While Intermediate Mechanics introduced first order
+constraints, Sci-fi gave us free reign of the cosmos. Peter understood these students. He welcomed
+us with a delighted grin.
 
 In both classes, the professor conducted on-on-one meetings with every student. Lacking an office
 on campus, he invited us to stroll around the Midway, a twenty-five or thirty minute circuit, in
@@ -68,28 +69,30 @@ insecurity.
 > chapter, it’s compellingly easy to visualize what’s happening because you seem instinctively to
 > know where to put the camera. --- Peter O'Leary
 
-Even now, I read those words with pride, and back then, they inspired me to keep working on the
-project. Peter O'Leary understood that the pre-meds and comp-sci majors in his classes needed
-encouragement more than anything, in order to keep pursuing their passions. A professor can hold no higher goal than this.
+At the time, those words meant the world. They inspired me to keep working on the novel, which
+inhabited a nascent, amoporhous stage. Peter O'Leary understood that the pre-meds and comp-sci
+majors in his classes needed encouragement more than anything, in order to keep pursuing their
+passions.
 
-# Part II: Bird Watching
+# Part II: How to Go Bird Watching
 
-In my fourth year spring, I was beginning to get those inevitable doubts about what comes next. So
-I asked Peter O'Leary for coffee, and instead he took me bird watching.
+In my fourth year spring, I experienced those inevitable doubts about what comes next. Seeking some
+advice, I asked Peter O'Leary for coffee, and instead he took me bird watching.
 
 The invitation surprised me at first---I had hardly expected him to have any time for me
-whatsoever, let alone to introduce me to his hobby at the same---but upon reflection it proved to
-be in keeping with his usual mode of office hours as well as his character. The archetypal wizard,
-after all, holds secret knowledge. As we learned in class, this kind of knowledge can only pass
-from person to person, and although I could have memorized feather patterns from a book or even
-listened to mating calls online, I would still lack the experiental know-how of spotting them. It
-takes a master of the craft to teach an initiate bird watcher.
+whatsoever, let alone to introduce his hobby at the same---but upon reflection it proved to be in
+keeping with his usual mode of office hours as well as his character. The archetypal wizard, after
+all, holds secret knowledge. As we learned in class, this kind of knowledge can only pass from
+person to person, and although I could have memorized feather patterns from a book or even listened
+to mating calls online, I would still lack the experiental know-how of spotting them. It takes a
+master of the craft to teach an initiate bird watcher.
 
 I didn't know what to expect. Peter O'Leary invited me along because he had a routine on those
 Springtime Tuesdays he spent on the South Side, and he saw no reason to deviate from it. Bird
-watching goes just as well with heavy conversation as a cappuccino.
+watching goes just as well with heavy conversation as a cappuccino, after all.
 
-...
+
+
 
 <!-- Key idea: your passions don't need to coincide with your career, but it helps. -->
 

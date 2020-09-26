@@ -76,14 +76,17 @@ passions.
 
 # Part II: How to Go Bird Watching
 
-In my fourth year spring, I experienced those inevitable doubts about what comes next. I asked
-Peter O'Leary for coffee, and instead he took me bird watching.
+It was my fourth-year Spring quarter. I asked Peter O'Leary for coffee, and instead he took me bird
+watching.
 
-The invitation surprised me at first---I had hardly expected him to have time for at all, let alone
-to intrude upon his personal hobby---but upon reflection it proved to be in keeping with his usual
-mode of office hours as well as his character. The archetypal wizard holds secret knowledge, the
-kind of knowledge that only passes through personal apprenticeship. Although I could have memorized
-the colorings in a guide book or listened to birdsongs online, I would still lack the experiental
+The invitation surprised me. I had expected perhaps a twenty-minute conversation between classes,
+which most professors will accommodate, or . Do people actually go
+bird watching? For fun?
+
+Upon reflection, however, it proved to be in
+keeping with his usual mode of office hours. The archetypal wizard holds secret knowledge, the kind
+of knowledge that only passes through personal apprenticeship. Although I could have memorized the
+colorings in a guide book or listened to birdsongs online, I would still lack the experiental
 know-how of spotting them. It takes a master of the craft to induct an initiate bird watcher.
 
 I didn't know what to expect. Peter O'Leary invited me along because he had a routine on those

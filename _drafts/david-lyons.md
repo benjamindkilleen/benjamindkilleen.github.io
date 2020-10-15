@@ -1,0 +1,55 @@
+---
+layout: single
+title:  "How to Have Your Opinion, Man"
+author: "Benjamin D. Killeen"
+date: 2020-10-31
+permalink: /posts/2020/10/how-to-have-your-opinion-man
+tags:
+  - Chicago
+---
+
+<!-- Maybe put a picture of Lebowski here -->
+
+David Lyons carried himself with the kind of casual self-importance that only underpaid professors
+can. According to rumor, he could have earned a significant income at a consulting firm, but
+instead he taughed twenty-year-olds about Democracy in America and what Karl Marx actually meant by
+"opiate of the masses." The decision didn't seem driven by academic ambitions, at least not
+then. Rather, it was as if the greener grasses of high-roll consulting waited just beyond the
+quarter, and he continually committed himself to one more ten-week course out of the sense that his
+short term activity could little detriment his long term prosperity, and in the meantime he had
+minds to mold.
+
+Prof. Lyons gave the impression of a lawyer or perhaps an old-fashioned banker. He carred a leather
+messenger bag always neatly organized with a portfolio of graded papers, his syllabus, the day's
+reading, and two cans of green-flavored La Croix, which he drank while students spouted their
+opinions. Once, he forgot the sparkling water. His wife graciously dropped by so that he needn't go
+unquenched. The class hardly skipped a beat, despite this interruption, and he merely said, "Go
+on," to the underclassmen who had been speaking.
+
+The previous quarter, our class had enjoyed an easygoing Indian man who seldom bothered himself
+with who had done the reading and brought everyone coffee and donuts on the last day of class. Try
+as I might, I cannot remember this kind man's name.
+
+David Lyons, on the other hand, let us know that he was a different kind of professor. He stated in
+class and on the syllabus that he reserved the right cold call any one of us, asking about the
+importance of associations in Tocqueville or what Nietsche meant by master morality. If our answers
+failed to impress, he said, we didn't deserve to sit in his class. He never exercised this right to
+its full extent, actually tossing someone out, with the fear of such humiliation being more than
+enough to make sure most everyone came prepared. However, on one occasion he came very close. The
+growing dread, as this poor student grasped at straws while Lyons prompted his supposedly slipshod
+memory (slipshod as opposed to empty), made my skin crawl. To hear this student, who may or may not
+have merely done the reading too late in the evening, as they claimed, fail to identify again and
+again even one reasonable definition of relative surplus value, unaided in the intermittent
+silences by empathetic but helpless comrades, too well aware that on another morning they might
+have been just as unluck, and to hear David Lyons' ultimate question, in that moment, still stands
+out in my memory
+
+"Mr. Daniels," he said, addressing the student by his title, "I'm going to ask you this, and I
+trust you'll answer honestly. Did you do the reading?"
+
+"Yes?" said Mr. Daniels, with a tone that tilted upward at the end, making the single word a
+question. It was as if he asked, by lying so poorly, whever he might exact pity from the merciless
+Lyons.
+
+The professor nodded. "All right then," he said, and he opened the question to the rest of us.
+

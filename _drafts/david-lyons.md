@@ -8,7 +8,32 @@ tags:
   - Chicago
 ---
 
-<!-- Maybe put a picture of Lebowski here -->
+David Lyons possessed the kind of casual self-importance that only underpaid professors can.  He
+had elbow patches on his jacket. His favorite movie was *The Big Lebowski*. Every class,
+Prof. Lyons arrived ten minutes early, carrying a leather messenger bag which was neatly organized
+with graded papers, his syllabus, the day's reading, and two cans of green-flavored La Croix. He
+drank these intermittently over the ninety-minute seminar, one after the other, while one or
+another "that kid" spouted their opinion, man.
+
+-------------------------------------------------------------------------------
+
+Prof. Lyons used to be a consulting attorney. Now he taught "Classics of Social and Political
+Thought" to a baker's dozen twenty-year-olds.
+
+
+
+-------------------------------------------------------------------------------
+
+In the Winter quarter, my Classics seminar enjoyed an easygoing professor brought coffee and donuts
+and seldom bothered with who had actually done the reading. We loved him. Although no one ever
+*intended* to skip a single sentence of Rousseau, very often Analysis midterms or model UN prep had
+higher priority. It was sometimes necessary to let the readings slide, and this professor was very
+forgiving. However, I cannot remember the kind man's name.
+
+I cannot remember the kind man's name. I *definitely* remember David Lyons.
+
+Although we never *intentionally* skipped a single sentence of Rousseau,
+sometimes classtime arrived before we realized.
 
 David Lyons carried himself with the kind of casual self-importance that only underpaid professors
 can. According to rumor, he could have earned a significant income at a consulting firm, but
@@ -26,9 +51,9 @@ opinions. Once, he forgot the sparkling water. His wife graciously dropped by so
 unquenched. The class hardly skipped a beat, despite this interruption, and he merely said, "Go
 on," to the underclassmen who had been speaking.
 
-The previous quarter, our class had enjoyed an easygoing Indian man who seldom bothered himself
-with who had done the reading and brought everyone coffee and donuts on the last day of class. Try
-as I might, I cannot remember this kind man's name.
+In the Winter quarter, our class enjoyed an easygoing Indian professor who seldom bothered with who
+had done the reading and brought everyone coffee on the last day of class. This kind man's name now
+escapes me.
 
 David Lyons, on the other hand, let us know that he was a different kind of professor. He stated in
 class and on the syllabus that he reserved the right cold call any one of us, asking about the

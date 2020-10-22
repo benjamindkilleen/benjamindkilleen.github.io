@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "How to Have Your Opinion, Man"
+title:  "How to Have an Opinion"
 author: "Benjamin D. Killeen"
 date: 2020-10-31
-permalink: /posts/2020/10/how-to-have-your-opinion-man
+permalink: /posts/2020/10/how-to-have-an-opinion
 tags:
   - Chicago
 ---
@@ -15,12 +15,33 @@ with graded papers, his syllabus, the day's reading, and two cans of green-flavo
 drank these intermittently over the ninety-minute seminar, one after the other, while one or
 another "that kid" spouted their opinion, man.
 
+David Lyons taught the Spring quarter of Classics, marking a stark departure from his
+predecessor. My section had just spent the Winter quarter with an easygoing Indian man who brought
+coffee and donuts to class and seldom bothered with who had actually done the reading. We loved him
+for it. Although no one ever intended to skip a single sentence of Rousseau, very often Analysis
+midterms or modul UN prep had higher priority in terms of long-term impact. It was sometimes
+necessary to skim Hobbes' *Leviathan* in the twenty minutes left for breakfast, downing several
+cups of coffee after turning in a programming assignment at two o'clock that morning, and pray that
+someone else could make up the dearth of conversation. This worked well enough, once or twice. The
+trouble started late in the quarter, when almost everyone had caught on and awkward silences
+stretched for thirty seconds or more after the kindly professor asked "So, what is the Third
+Estate?" Eventually, someone might answer.
+
+The kindly professor let us get away with these silences, thankfully, but there is a reason I call
+him "kindly professor." Try as I might, I cannot remember the man's name. His teaching was
+unobtrusive --- on our priorities as well as our education.
+
+On the other hand, I remember David Lyons.
+
+On the first day, Prof. Lyons reviewed the syllabus. 
+
 -------------------------------------------------------------------------------
 
 Prof. Lyons used to be a consulting attorney. Now he taught "Classics of Social and Political
 Thought" to a baker's dozen twenty-year-olds.
 
 
+[End with question about Watchmen?]
 
 -------------------------------------------------------------------------------
 

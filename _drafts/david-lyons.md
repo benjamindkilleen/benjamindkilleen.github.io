@@ -33,7 +33,7 @@ unobtrusive --- on our priorities as well as our education.
 
 On the other hand, I remember David Lyons.
 
-On the first day, Prof. Lyons reviewed the syllabus. 
+Prof. Lyons spent the first day of class much like any .
 
 -------------------------------------------------------------------------------
 

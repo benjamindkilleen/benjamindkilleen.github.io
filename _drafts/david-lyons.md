@@ -8,9 +8,6 @@ tags:
   - Chicago
 ---
 
-<!-- Prof. Lyons used to be a consulting attorney. Now he taught "Classics of Social and Political -->
-<!-- Thought" to a baker's dozen twenty-somethings. -->
-
 Professor Lyons possessed the sort of casual self-importance of which only a
 consulting-attorney-turned-underpaid-professor is capable. He taught "Classics of Social and
 Political Thought" to a baker's dozen twenty-somethings every quarter, and he loved it. He had
@@ -27,11 +24,6 @@ prep had higher priority in terms of long-term effect. However, the trouble star
 quarter, when almost everyone had taken advantage of the kind man's leniency, and an awkward
 silence stretched for thirty seconds or more after he asked "So, what is the Third Estate?" to no
 avail.
-
-<!-- It was sometimes necessary to skim Hobbes' -->
-<!-- *Leviathan* in the twenty minutes left for breakfast, downing several cups of coffee after turning -->
-<!-- in a programming assignment at two o'clock that morning, and pray that someone else could make up -->
-<!-- the dearth of conversation. This worked well enough, once or twice. -->
 
 The kind man almost always answered his own question, a fact which everyone knew but didn't stop us
 from squirming with fear that he would call on someone. He never did. At the time, I was always

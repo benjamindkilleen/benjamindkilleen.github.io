@@ -47,16 +47,21 @@ importance of associations in Tocqueville or what Nietzsche meant by master vers
 morality. If the answer failed to impress, he reserved the right to ask us to leave. He never
 exercised this right to its fullest extent -- actually tossing someone out -- but the fear of such
 humiliation motivated us to prioritize his assigned readings over the Wednesday Bar Night, for
-example. However, I do remember one occasion where he came very close. The poor student grasped at
-straws while Lyons prompted his slipshod memory, all the while claiming that he couldn't keep his
-thoughts straight because he had read the passage so late at night. Maybe he was telling the truth,
-or maybe he never touched the reading. Either way, no one could help him. As he failed, more than
-once, to identify even one reasonable definition of relative surplus value (in the context of
-Marx), a deep sense of dread settled over his empathetic comrades, some of them too well aware that
-on another morning they might have been just as unlucky.
+example.
 
-I remember Prof. Lyons' last question as if he burned it into my brain. "Mr. Daniels," he said. "I'm
-going to ask you this, and I trust you'll answer honestly." He paused.
+I do remember one occasion, however, where he came very close. "Mr. Daniels," he said, at the
+beginning of class. "What does Marx mean by relative surplus value?"
+
+The poor student grasped at straws while Lyons prompted his slipshod memory, all the while claiming
+that he couldn't keep his thoughts straight because he had read the passage so late at night. Maybe
+he was telling the truth, or maybe he never touched the reading. Either way, no one could help
+him. As he failed, more than once, to identify the author's definition of relative surplus value, a
+deep sense of dread settled over his empathetic comrades, some of them too well aware that on
+another morning they might have been just as unlucky. We waited for the moment when David Lyons
+would exercise his right.
+
+I remember the last question as if he burned it into my brain. "Mr. Daniels," Prof. Lyons
+said. "I'm going to ask you this, and I trust you'll answer honestly." He paused.
 
 Mr. Daniels nodded for him to continue.
 
@@ -67,22 +72,29 @@ asserted it.
 
 The professor took no notice. "All right then," he said, and he opened the question to the room.
 
-The syllabus that Prof. Lyons put forth was not so much a guide for students to do well in his
-class but rather as a social contract, which all of us agreed to by registering for the course. It
-should be noted that not everyone present for the reading of the syllabus signed on for the rest of
-the quarter. Model UN girl dropped the class that morning. 
+In this way, the syllabus that Prof. Lyons put forth was not so much a guide for students to do
+well in his class but rather a social contract, which all of us agreed to by staying in the
+course. It should be noted that not everyone did stay, who was present on day one. The girl in
+Model UN dropped next morning.
 
-Harsh as it was, the syllabus facilitated the kind of conversation Prof. Lyons wanted to lead. I
-remember another occasion where Ms. Bell disagreed strongly with Marx's position on some issue, perhaps
-that an object's value depends on the labor that goes into its production, and wished to discuss
-the merits of that definition. After several attempts to redirect the conversation, Prof.~Lyons
-reached into his messenger bag, withdrew a copy of the syllabus, and got up from his
-chair. Ms. Bell kept speaking. Lyons marched around the table to her seat, which was just next to
-mine, and laid the syllabus in front of her.
+Later in the quarter, I happened to run into her. "I wasn't down for that," she told me, when I
+asked about the class. "Just, no."
+
+On its own, a harsh syllabus perhaps means very little, since so many professors treat the document
+as more aspirational than actual. More declaration of independence, as it were, than constitutional
+amendment 27. The difference was that Prof. Lyons enforced his syllabus. Or rather, he readily
+reminded us of the particulars on the occasion we might forget. 
+
+I remember one instance in particular. Ms. Bell began class by disagreeing strongly with Marx's
+definition of value, namely that an object's value depends solely on the labor that goes into its
+production, and wished to discuss it. Prof. Lyons didn't. After several attempts to redirect the
+conversation, Prof.~Lyons reached into his messenger bag, withdrew a copy of the syllabus, and got
+up from his chair. Ms. Bell kept speaking. Lyons marched around the table to her seat, which was
+just next to mine, and laid the syllabus in front of her.
 
 He pointed to a specific paragraph. "Read that," he said, interrupting her in mid-sentence, "and
-if, after reading it, you still feel that your question adds to this discussion, I will be happy to
-address it."
+if, after reading it, you still feel that your question merits a discussion in my class, I will be
+happy to address it."
 
 I could see the paragraph he pointed to. I couldn't help but read it alongside Ms. Bell, while
 Prof. Lyons returned to his seat. It read:
@@ -97,8 +109,8 @@ Prof. Lyons returned to his seat. It read:
 > with it, and (4) the weaknesses and limits of your own position. The more honest you are with
 > yourself on this last point, the greater the benefit you will derive from our readings.
 
-At length, the conversation moved on. When she spoke again, after some time, Ms. Bell did not raise
-the same complaint.
+After reading this paragraph, Ms. Bell fell silent. At length, the conversation moved on, and when she
+spoke again, after some time, she did not raise the same complaint.
 
 Over the quarter, I got the sense that Prof. Lyons cared more deeply about imparting some sense of
 truth on his students than about the particular content he was teaching. I do not mean "truths,"
@@ -107,29 +119,31 @@ itself: the idea that some positions are inherently correct, others are wrong, a
 be argued. Recognizing these categories is difficult. Yet Lyons clearly considered it a much more
 crucial skill than the crucial skill than explaining anything John Stuart Mill had to say in *On
 Liberty*. Often, he quoted the line from his favorite movie, "That's just your opinion, man,"
-sometimes ironically, sometimes directed toward himself, and sometimes as a gentle reminder that we
-might be wrong.
+sometimes ironically, sometimes directed toward himself, and sometimes as a gentle reminder that
+one or all of us might simply be wrong.
 
 Of course, David Lyons himself had some very strong opinions. In "Guidelines for Written Work," a
-separate document which he distributed alongsied the syllabus, Prof. Lyons listed several
-"contemporary barbarisms" of modern writing, which would lower our final grade by one third if they
-appeared in any essay. These included the word "impact" used for anything other than "the action of
-one body striking another," and "proactive", which makes one sound like a management consultant
-trying to fit more syllables into every word. Plain, honest "active" works just as well. He also
-disliked words like "incentivize" and "problematize," which "add nothing to the English language"
-and "instead tend to rob the language of other useful words and reduce the tools we have available
-for thinking about the world."
+separate document which he distributed alongside the syllabus, Prof. Lyons listed several
+"contemporary barbarisms" of modern writing, which we should avoid in our essays unless we wished
+for a one third lower letter grade. These included the word "impact" used for anything other than
+physical objects literally striking one another, and "proactive", which made one sound like a
+management consultant trying to fit more syllables into every word. Plain, honest "active" worked
+just as well. Lyons also disliked words like "incentivize" and "problematize," which, according to
+him, "add nothing to the English language" and "instead tend to rob the language of other useful
+words and reduce the tools we have available for thinking about the world."
 
-I imagine Prof. Lyons would object to my characterizing these requirements as opinions. Indeed, I
-believe that following them makes me a better writer. Yet the distinction between fact and "just
-your opinion, man" illustrates the kind of truth that Prof. Lyons cared so deeply about. Over the
-objections of his students, many of whom felt that "impact" worked just fine as a synonym for
-"effect," he imposed his own opinion because he could support it. He had many years of experience,
-both in academia and outside it, and offered the appendix of George Orwell's *1984* as the basis
-for his "Guidelines." It is difficult to argue with someone who has Orwell on their side.
+I imagine Prof. Lyons would object to my characterizing these positions on writing as mere
+opinions. Indeed, I believe that following them made me a better writer. Yet the distinction
+between fact and "just your opinion, man" illustrates the kind of truth that Prof. Lyons cared so
+deeply about. Over the objections of his students, many of whom felt that "impact" worked just fine
+as a synonym for "effect," he imposed his own opinion because he could support it. He pointed to
+the appendix of George Orwell's essay, "[The Principles of
+Newspeak](https://orwell.ru/library/novels/1984/english/en_app)" as the basis for his "Guidelines,"
+an elegant and enjoyable piece of persuasive writing which Orwell included in the appendix to
+*1984*. Along with Prof. Lyons, I highly recommend giving it a read.
 
-A different section of the Guidelines offers a summary of David Lyons's philosophy on truth. At
-least, it speaks of the truth insofar as it can be argued. He writes:
+A different section of the Guidelines perhaps servers as a summary of David Lyons's philosophy on
+truth. At least, it speaks of the truth insofar as it can be argued. He advises any would-be writer:
 
 > Avoid unfounded assertions. Occasionally students will simply claim that the world in which we
 > live, especially human life, is a certain way and then proceed to write a paper as though that
@@ -142,34 +156,40 @@ least, it speaks of the truth insofar as it can be argued. He writes:
 
 Prof. Lyons reviled weak opinions. This is not to say he never had any, I should think, but rather
 that he worked hard to strengthen or remove them. He constructed his positions out of more atomic
-truths, such as what Hume actually wrote, and sought out additional arguments to test against his
+truths, such as what Hume actually wrote, and sought out others' arguments to test against his
 own. Thus, one could hardly say to David Lyons, "Yeah, well, that's just your opinion, man,"
 because it was seldom just *his* and never *just* an opinion.
 
-On the other hand, David Lyons readily admitted when multiple arguments made sense, even if they
-contradicted one another. On the last day of class, the assigned reading consisted of neither Marx
-nor Nietszhe, not even Hannah Arendt. Instead, we discussed the graphic novel *Watchmen,* by Alan
-Moore.
+On the other hand, David Lyons readily admitted when multiple arguments made sense, even if he
+preferred one above the rest. On the last day of class, the assigned reading consisted of neither
+Marx nor Nietszhe, nor even Hannah Arendt. Instead, we discussed the graphic novel *Watchmen*, by
+Alan Moore.
 
-"So," Prof. Lyons began. "Who is the hero of Watchmen?"
+"So," Prof. Lyons began. "Who is the hero of *Watchmen*?"
 
-This was the essay prompt for that day. It was deceptively open-ended, with any number of possible
+This was the essay prompton *Watchmen*. It was deceptively open-ended, with any number of possible
 answers. Should one choose Dr. Manhattan, the blue man with god-like power to manipulate matter?
-What about Ozymandius, who undoubtedly saved the most lives but sacrificed millions in the
-process. Should a hero believe in right and wrong? If so, then the black-and-white Rorshach stands
-alone on his principles.
+What about Ozymandius, who undoubtedly saved the most lives but sacrificed millions in the process?
+Should a hero believe in right and wrong? If so, then the black-and-white Rorshach stands alone by
+sticking to his principles.
 
 Ultimately, the choice depended on one's definition of "hero," but that didn't mean that every
 choice was reasonable. We would be graded on the soundness of our argument. Thus, Prof. Lyons urged
 us not to argue on behalf of Edward Blake, the amoral vigilante with little regard for human life,
-whose grisly murder paints the opening pages of "Watchmen" red. Edward Blake was not the hero. Any
-opinion that argued as much would likely fall short of the high standard by which David Lyons
-estimated truth. That is to say: reasoning.
+whose grisly murder paints the opening pages of *Watchmen* red. Edward Blake was not the hero,
+plain and simple. Any opinion that argued as much would likely fall short of the high standard by
+which David Lyons estimated truth. That is to say: reasoning.
 
 Opinions based on such a firm foundation are not so easily dismissed as *the dude*'s oft-repeated
 abnegation would like to assert. The choice of *Watchmen*'s hero was definitely up for debate, as
 most matters opinion are, but that didn't make every position debatable. No one claimed the
 comedian as their hero. Moreover, no one felt so strongly about their own position that they were
-unwilling to adopt someone else's definitions, if only for the sake of argument. Thus, we reached a
-closer approximation of truth, on that hot Tuesday morning on May, while David Lyons listened
-thoughtfully, all the while drinking his La Croix.
+unwilling to adopt someone else's definition of "hero," in order to understand their
+argument. Thus, we reached a closer approximation of truth, on that hot Tuesday morning on May,
+while David Lyons listened thoughtfully, all the while drinking his La Croix.
+
+David Lyons, for his part, thought the hero of *Watchmen* was Bernard, the ordinary man who sold
+newspapers on a street corner in New York. He told us at the end of class, not particularly
+bothered that no one shared his opinion.
+
+"Have a good summer," he added. "Keep in touch."

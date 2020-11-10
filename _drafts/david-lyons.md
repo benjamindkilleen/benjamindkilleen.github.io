@@ -116,11 +116,12 @@ might be wrong.
 Of course, David Lyons himself had some very strong opinions. In "Guidelines for Written Work," a
 separate document which he distributed alongsied the syllabus, Prof. Lyons listed several
 "contemporary barbarisms" of modern writing, which would lower our final grade by one third if they
-appeared in any essay. These included the word "impact" used for anything other than "the action
-of one body striking another," and "proactive", which makes one sound like a management consultant
-trying to fit more syllables into every word. He also disliked words like "incentivize" and
-"problematize," which "add nothing to the English language" and "instead tend to rob the language
-of other useful words and reduce the tools we have available for thinking about the world."
+appeared in any essay. These included the word "impact" used for anything other than "the action of
+one body striking another," and "proactive", which makes one sound like a management consultant
+trying to fit more syllables into every word. Plain, honest "active" works just as well. He also
+disliked words like "incentivize" and "problematize," which "add nothing to the English language"
+and "instead tend to rob the language of other useful words and reduce the tools we have available
+for thinking about the world."
 
 I imagine Prof. Lyons would object to my characterizing these requirements as opinions. Indeed, I
 believe that following them makes me a better writer. Yet the distinction between fact and "just
@@ -148,18 +149,49 @@ truths, such as what Hume actually wrote, and sought out additional arguments to
 own. Thus, one could hardly say to David Lyons, "Yeah, well, that's just your opinion, man,"
 because it was seldom just *his* and never *just* an opinion.
 
-On the other hand, David Lyons did acknowledge when multiple arguments made sense, even if they
-contradicted one another. <!-- how he acknowledged that people might be right with the heros in
+On the other hand, David Lyons readily admitted when multiple arguments made sense, even if they
+contradicted one another. On the last day of class, the assigned reading consisted of neither Marx
+nor Nietszhe, not even Hannah Arendt. Instead, we discussed the graphic novel *Watchmen,* by Alan
+Moore.
+
+"So," Prof. Lyons began. "Who is the hero of Watchmen?"
+
+This was the essay prompt for that day. It was deceptively open-ended, with any number of possible
+answers. Should one choose Dr. Manhattan, the blue man with god-like power to manipulate matter?
+What about Ozymandius, who undoubtedly saved the most lives but sacrificed millions in the
+process. Should a hero believe in right and wrong? If so, then the black-and-white Rorshach stands
+alone on his principles.
+
+Ultimately, the choice depended on one's definition of "hero," but that didn't mean that every
+choice was reasonable. We would be graded on the soundness of our argument. Thus, Prof. Lyons urged
+us not to argue on behalf of Edward Blake, the amoral vigilante with little regard for human life,
+whose grisly murder paints the opening pages of "Watchmen" red. Edward Blake was not the hero. Any
+opinion that argued as much would likely fall short of the high standard by which David Lyons
+estimated truth. That is to say: reasoning.
+
+Opinions based on such a firm foundation are not so easily dismissed as *the dude*'s oft-repeated
+abnegation would like to assert. The choice of *Watchmen*'s hero was definitely up for debate, as
+most matters opinion are, but that didn't make every position debatable. No one claimed the
+comedian as their hero. Moreover, no one felt so strongly about their own position that they were
+unwilling to adopt someone else's definitions, if only for the sake of argument. Thus, we reached a
+closer approximation of truth, on that hot Tuesday morning on May, while David Lyons listened
+thoughtfully, all the while drinking his La Croix.
+
+<!-- For his part, Prof. Lyons chose an unlikely candidate as the hero of Watchmen: a newspaper salesman -->
+<!-- named Bernard. Unlike all of us, his definition of hero required someone relatable, an ordinary -->
+<!-- person, just trying to get by. Bernard embodies this spirit, certainly, and -->
+
+<!-- how he acknowledged that people might be right with the heros in
 watchmen, even if he didn't agree with them, but that some assertions were definitely wrong (the
 comedian is not the hero), and that any arguments to those points were doomed to fail. Explain his grading policy -->
 
-According to rumor, David Lyons could have earned a significant income at a consulting firm, but
-instead he taught twenty-year-olds about Democracy in America and what Nietsche actually meant by
-"God is dead." The decision certainly had no financial motivation, and although academic ambitions
-may have played a role, they didn't seem overly important to the professor. Rather, it was as if
-the greener grasses of high-roll consulting waited just beyond the quarter, and he continually
-committed himself to one more ten-week course out of the sense that his short term activity could
-little detriment his long term prosperity, and in the meantime he had minds to mold. 
+<!-- According to rumor, David Lyons could have earned a significant income at a consulting firm, but -->
+<!-- instead he taught twenty-year-olds about Democracy in America and what Nietsche actually meant by -->
+<!-- "God is dead." The decision certainly had no financial motivation, and although academic ambitions -->
+<!-- may have played a role, they didn't seem overly important to the professor. Rather, it was as if -->
+<!-- the greener grasses of high-roll consulting waited just beyond the quarter, and he continually -->
+<!-- committed himself to one more ten-week course out of the sense that his short term activity could -->
+<!-- little detriment his long term prosperity, and in the meantime he had minds to mold.  -->
 
 
 

@@ -2,73 +2,78 @@
 layout: single
 title:  "How to Have an Opinion"
 author: "Benjamin D. Killeen"
-date: 2020-10-31
-permalink: /posts/2020/10/how-to-have-an-opinion
+date: 2020-11-10
+permalink: /posts/2020/11/how-to-have-an-opinion
 tags:
   - Chicago
 ---
 
-Professor Lyons possessed the sort of casual self-importance of which only a
-consulting-attorney-turned-underpaid-professor is capable. He taught "Classics of Social and
-Political Thought" to a baker's dozen twenty-somethings every quarter, and he loved it. He had
-elbow patches on his jacket. His favorite movie was *The Big Lebowski*. Every day, he carried a
-leather messenger bag stuffed with graded papers, his syllabi, that day's reading, and cans of
-green La Croix, which he drank periodically throughout the class while one or another "that kid"
-spouted just their opinion, man -- as if the La Croix lent him willpower to listen.
+<!-- He taught "Classics of Social and Political Thought" to a -->
+<!-- baker's dozen twenty-somethings every quarter, and he loved it. -->
+
+Professor Lyons possessed the sort of casual self-importance which only former consulting attorneys
+and underpaid professors are capable of. He had elbow patches on his jacket. His favorite movie was
+*The Big Lebowski*. Every day, he carried a leather messenger bag stuffed with graded papers,
+syllabi, that day's reading, and several cans of green La Croix, which he drank periodically
+throughout the class while one or another "that kid" spouted their opinion -- as if the
+Wisconsonian sparkling water lent him willpower to listen.
 
 The students in my section were ill-prepared for the likes of Prof. Lyons. We had just spent the
 Winter quarter under the tutelage of an easygoing Indian man who brought coffee and donuts to class
 and seldom bothered with who had actually done the reading. Naturally, we loved him. Although no
 one ever intended to skip a single sentence of Rousseau, very often Analysis midterms or modul UN
-prep had higher priority in terms of long-term effect. However, the trouble started late in the
-quarter, when almost everyone had taken advantage of the kind man's leniency, and an awkward
-silence stretched for thirty seconds or more after he asked "So, what is the Third Estate?" to no
-avail.
+prep had higher priority in terms of long-term import. By about seventh week, however, almost
+everyone had gotten used to the kind man's leniency, and an awkward silence stretched for thirty
+seconds or more after he asked, "What is the Third Estate?" to no avail.
 
-The kind man almost always answered his own question, a fact which everyone knew but didn't stop us
-from squirming with fear that he would call on someone. He never did. At the time, I was always
-grateful, but afterward I wondered whether the man did us a disservice. His teaching was
-unobtrusive -- on our minds as well as our priorities -- and so we learned comparatively
-little. Here, I have referred to him as "the kind man" because his name now escapes my
-recollection.
+The kind man almost always answered his own question, a fact which everyone knew but that didn't
+stop us from squirming uncomfortably while he might possibly call on someone to answer. He never
+did. At the time, I was grateful. Afterward I wonder whether the man did us a disservice. His
+teaching was unobtrusive -- on our minds as well as our priorities -- and so we learned
+comparatively little. Even now, I refer to him as "the kind man" because his name escapes
+my recollection.
 
-But I remember the name of David Lyons.
+I remember the name of David P. Lyons.
 
 On the first day of class, Prof. Lyons informed us that he believed in fairness, and since
 propriety dictated that he go by his title, we should go by ours. Thus, for three hours a week, I
-would be "Mister Killeen," not "Benjamin." Likewise, I would come to know my classmates almost
-exclusively as "Mister Tyler" or "Miss Bell," et cetera, requiring the slightly awkward
-exchange of given names on the instances we passed each other outside class.
+would be "Mr. Killeen," not merely "Benjamin." Likewise, I would come to know my classmates almost
+exclusively as "Mr. Tyler" or "Ms. Bell," et cetera, requiring the slightly awkward
+exchange of given names on the instances we met each other outside class.
 
-Prof. Lyons' syllabus contained some irregularities. Unlike his predecessor, he intended to cold
-call everyone, based on the assigned reading, whenever he felt the conversation lull. He might ask
-about eh importance of associateions in Tocqueville or what Nietsche meant by master morality and
-its connections to slave morality. If the answer failed to impress, he said, he reserved the right
-to ask anyone to leave and not not come back until they had done the reading. He never exercised
-this right to its full extent -- actually tossing someone out -- since the fear of such humiliation
-more than sufficed as motivation to prioritize the reading over the Wednesday Bar Night, for
-example. However, I remember one occasion where he came very close. The poor student grasped at
-straws while Lyons prompted his supposedly faulty memory (faulty as opposed to never-filled), all
-the while claiming that he couldn't keep his thoughts straight because he had read the passage so
-late at night. Maybe he was telling the truth, or maybe he never touched the reading, but Lyons
-only cold-called him because he noticed a lack of participation. As he failed, more than once, to
-identify even one reasonable definition of relative surplus value (in the context of Marx), a deep
-sense of dread settled over his empathetic but nevertheless unhelpful comrades, too well aware that
+Prof. Lyons' syllabus let us know what kind of class he intended to teach. Unlike his predecessor,
+he intended to cold call, if he felt that someone was not contributing. He might ask about the
+importance of associations in Tocqueville or what Nietzsche meant by master versus slave
+morality. If the answer failed to impress, he reserved the right to ask us to leave. He never
+exercised this right to its fullest extent -- actually tossing someone out -- but the fear of such
+humiliation motivated us to prioritize his assigned readings over the Wednesday Bar Night, for
+example. However, I do remember one occasion where he came very close. The poor student grasped at
+straws while Lyons prompted his slipshod memory, all the while claiming that he couldn't keep his
+thoughts straight because he had read the passage so late at night. Maybe he was telling the truth,
+or maybe he never touched the reading. Either way, no one could help him. As he failed, more than
+once, to identify even one reasonable definition of relative surplus value (in the context of
+Marx), a deep sense of dread settled over his empathetic comrades, some of them too well aware that
 on another morning they might have been just as unlucky.
 
 I remember Prof. Lyons' last question as if he burned it into my brain. "Mr. Daniels," he said. "I'm
-going to ask you this, and I trust you'll answer honestly. Did you do the reading?"
+going to ask you this, and I trust you'll answer honestly." He paused.
+
+Mr. Daniels nodded for him to continue.
+
+"Did you do the reading?"
 
 "Yes," said Mr. Daniels, but his tone of voice sounded unsure, as if he asked "Yes?" rather than
 asserted it.
 
-The professor appeared not to notice. "All right then," he said, and he opened the question to the
-room.
+The professor took no notice. "All right then," he said, and he opened the question to the room.
 
-Prof. Lyons viewed his syllabus not so much as a guide for students to do well in his class but
-rather as a social contract, which all of us agreed to by registering for the course. The contract
-facilitated the kind of conversation Prof. Lyons wanted to lead, and he enforced it rigorously. I
-remember one occasion where Ms. Bell disagreed strongly with Marx's position on some issue, perhaps
+The syllabus that Prof. Lyons put forth was not so much a guide for students to do well in his
+class but rather as a social contract, which all of us agreed to by registering for the course. It
+should be noted that not everyone present for the reading of the syllabus signed on for the rest of
+the quarter. Model UN girl dropped the class that morning. 
+
+Harsh as it was, the syllabus facilitated the kind of conversation Prof. Lyons wanted to lead. I
+remember another occasion where Ms. Bell disagreed strongly with Marx's position on some issue, perhaps
 that an object's value depends on the labor that goes into its production, and wished to discuss
 the merits of that definition. After several attempts to redirect the conversation, Prof.~Lyons
 reached into his messenger bag, withdrew a copy of the syllabus, and got up from his

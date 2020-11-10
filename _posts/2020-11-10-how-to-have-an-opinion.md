@@ -8,9 +8,6 @@ tags:
   - Chicago
 ---
 
-<!-- He taught "Classics of Social and Political Thought" to a -->
-<!-- baker's dozen twenty-somethings every quarter, and he loved it. -->
-
 Professor Lyons possessed the sort of casual self-importance which only former consulting attorneys
 and underpaid professors are capable of. He had elbow patches on his jacket. His favorite movie was
 *The Big Lebowski*. Every day, he carried a leather messenger bag stuffed with graded papers,

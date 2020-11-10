@@ -189,3 +189,7 @@ newspapers on a street corner in New York. He told us at the end of class, not p
 bothered that no one shared his opinion.
 
 "Have a good summer," he added. "Keep in touch."
+
+</br>
+
+*The names of the students mentioned have been altered to respect their privacy.*

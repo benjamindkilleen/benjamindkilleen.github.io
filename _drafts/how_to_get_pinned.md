@@ -5,45 +5,115 @@ author: "Benjamin D. Killeen"
 date: 
 permalink: /posts/2020/12/how-to-get-pinned/
 tags:
-  - Chicago
+  - Missouri
 ---
 
-Nine months out of the year, most people called it the multipurpose room. In the high school
-basement, off the hall from the cafeteria, in the same corridor as the weight room and the
-phys. ed. lockers, the room felt vaguely purposeless, despite its name. Indoor batting cages were
-tucked against the near wall, with rolled-up greenery offering a convenient bench for changing in
-and out of tennis shoes. Insulating foam covered the steel beams across the ceiling, peppered with
-tiny dots which once served as the only entertainment during those mandatory screenings of "Your
-Body," that the Health teacher had to show, using a TV cart as wide as the doorway and
-well-equipped with both video-casette and DVD players, minus one remote. Bored, I sometimes tried
-to count the speckles.
+Nine months out of the year, most people called it the multipurpose room. In the basement, off the
+hall from the cafeteria, in the same corridor as the weight room and the lockers, the room had the
+proportions of a dance studio or a wine cellar. It was neither. In fact, it felt vaguely
+purposeless for those nine months. Collapsible batting cages hinted at one function, tucked against
+the near wall. Their rolled-up green offered a convenient bench for changing in and out of tennis
+shoes, as long as you could keep your balance. On the ceiling, an insulating foam covered gray
+steel beams, peppered with tiny black dots which once served as the only entertainment during those
+mandatory screenings of "Your Body," that the Health teacher had to show, using a TV cart as wide
+as the doorway and well-equipped with both video-casette and DVD players, minus one remote. I
+remember trying to count the speckles, bored.
 
-The left and back walls of the multipurpose room hinted at its deeper function, since Health class
-had another classroom and the batting cages could conceivably be moved elsewhere. The orange crash
-padding, bolted to the concrete of the left and back wall and seemingly out of place between
-between cheap, blue-white floor tiles and low-hanging fluorescent lights between the foam-covered
-beams, was permanent. In later years, teh room would take on other, equally permanent signifiers of
-its primary purpose: a painted-orange "champions corner" where every practice ended with some
-self-directed fifty push-ups; a peg board and seven pull-up bars bolted just above the padding; and
-in the middle of these a hand-painted version of the wrestling team's logo, and our unofficial name.
+The left and back walls of the multipurpose room reminded everyone of its most inherent role.
+Health had other classrooms and the batting cages could conceivably be moved elsewhere, but the
+orange crash padding, bolted to the concrete of the left and back wall and seemingly out of place
+between between cheap, blue-white floor tiles and low-hanging fluorescent lights between the
+foam-covered beams, was permanent. In later years, the room would take on other, equally permanent
+signifiers of its primary purpose: a painted-orange "champions corner" where every practice ended
+with a self-directed set of fifty push-ups; a peg board and seven pull-up bars bolted just above
+the padding, at different heights; and in the middle of these instruments of physical conditioning
+a hand-painted mural of the wrestling team's logo emblazoned with our unofficial name, "Currahee
+Wrestling."
 
-Officially, we were the "Webster Groves Statesmen Wrestling Team," but the logo didn't say
-"Statesmen Wrestling." We didn't print that ridiculous top hat and batton on our team hoodies,
-those symbols of a mascot as uninspired as the obligatory such-and-such high school Wolves,
-Wildcats and Tigers which populate every county of America in place of their apex namesakes. And we
-certainly didn't let loose the gender-specific word, "Statesmen," like a wild war cry when nothing
-else could capture that primal blend of cameraderie, pride, and dread which descended after
-weigh-ins. Instead our wall and our hoodies and our rallying cry was "Currahee," a Cherokee word
-which the 101st Airborne Division adopted as their motto, popularized by Tom Hanks and Steven
-Spielberg's *Band of Brothers,* which offers this translation: "We stand alone." 
+The logo didn't say, "Statesmen," which was our official school mascot. No one complained. The
+Statesman was an abstract mascot whose signature top hat and twirling baton wouldn't have inspired
+fish to swim. We didn't identify with it. We didn't don "Statesmen Wrestling" hoodies like plates
+of armor against the appraising glances of the Such-and-Such High School Eagles, Wolves, and
+Wildcats that populate every corner of America in place of their apex namesakes. And we certainly
+didn't let loose that vague, unspirited monicker like a wild war cry when nothing else could
+capture the primal blend of cameraderie, pride, and dread which descended after weigh-ins. Instead,
+we grunted "Currahee" in the deepest voice that adolescent boys could muster, and everyone who
+heard us wondered what it meant.
 
-On the first day of practice, Coach Lemay explained his understanding of the word. "It means, 'We
-stand alone, together,'" he said. "Currahee."
+To this day, I don't exactly know what inspired Coach to change the name, separating us somewhat
+from the other sports at Webster. Perhaps he objected to the gendered nature of the term, which
+would have excluded our female members in spirit if not in practice. I do not know. Perhaps the
+vaguely nationalistic flavor of a "state's man" rubbed him the wrong way, at the same time too
+large a meaning and also not enough for young wrestlers to carry with them on the mat. Most likely,
+however, Coach James Lemay just liked "Currahee." He chose the Cherokee word based on an episode of
+*Band of Brothers*, where the 101st Airborne runs three miles up, three miles down Currahee
+mountain. It translates as "We stand alone together," a fitting motto for a division of
+paratroopers who dropped behind enemy lines with no support except each other. James Lemay wanted
+it to fit his wrestling team as well. 
 
-It was a fitting motto for a wrestling team, whose members grow more close and more comfortable
-with each other perhaps than those of any other high school sport, but also those who stand alone
-against another boy or girl, a stranger, who means to beat them. On the mat, no wrestler among us
-had any help save that roar from the sidelines---not "Webster," not "Statesmen," but "Currahee."
+I remember meeting James Lemay on a Tuesday afternoon in August. The previous week, announcements
+mentioned open mats for the pre-season, which piqed my interest for some reason. I had never
+wrestled. In fact, I really had no business stepping foot in that single-purpose room at all,
+except perhaps for Health class. Adolescent Benjamin was awkward, bookish, and still carried
+fifteen pounds of baby fat underneath that curly mop of reddish brown hair which could have hid a
+bird's nest. I knew enough to bring a change of clothes, but enough to find the lockers. I opened
+the first door in the corridor, which was the weight room, and ventured inside despite feeling
+consciously out of place.
+
+The coach stood in the back.
+
+"Excuse me," I said, steeling myself. "Where are the lockers?"
+
+James Lemay looked up from his clipboard. Surrounded by squat racks and dumbells, he was a creature
+in his habitat, with legs like tree trunks and barrel-built chest. His bare arms had tattoos on
+both biceps, some Chinese characters and a stylized Boba Fett, all in black. He had a bald head and
+a round face, which was almost cherubic when cleanly shaven.
+
+"Down the hall," he said.
+
+"Um, right."
+
+I considered just leaving. No one I knew was on the wrestling team. My ride wouldn't be here until
+5:00, but I could hang out in the library.
+
+After changing into my middle school gym clothes, left over from the previous year, I returned to
+find six or seven other boys already warming up on stationary bikes. The wrestling part would come
+after lifting.
+
+Every wrestler stands alone on the mat, but unlike swimmers and runners and others who compete for
+individual medals, we can never practice on our own. Drilling moves requires a partner, preferably
+one with roughly equal weight and skill, who ultimately teaches you more about a given move than
+the instructor. The sport of wrestling, as I experienced it, depended on being part of a group.
+
+<!-- This idea is pretty central to the theme, and also pretty definitive of everything in high
+school, but also salient because it's pretty definitive of human nature. Now, to figure out what to
+say about it... -->
+
+<!-- TODO: need more transition to talk about this first day of the pre-season. -->
+
+<!-- TODO: I think maybe the dip into the present is a little quick? I want to focus on that
+strange decision, both to join in the first place and later not to quit. I guess this is a part of
+that. The answer is some kind of stubborness, in retrospect, but really I don't know and couln't
+tell you then or now. -->
+
+<!-- Officially, we were the "Webster Groves Statesmen Wrestling Team," but the logo didn't say -->
+<!-- "Statesmen Wrestling." We didn't print that ridiculous top hat and batton on our team hoodies, -->
+<!-- those symbols of a mascot as uninspired as the obligatory such-and-such high school Wolves, -->
+<!-- Wildcats and Tigers which populate every county of America in place of their apex namesakes. And we -->
+<!-- certainly didn't let loose the gender-specific word, "Statesmen," like a wild war cry when nothing -->
+<!-- else could capture that primal blend of cameraderie, pride, and dread which descended after -->
+<!-- weigh-ins. Instead our wall and our hoodies and our rallying cry was "Currahee," a Cherokee word -->
+<!-- which the 101st Airborne Division adopted as their motto, popularized by Tom Hanks and Steven -->
+<!-- Spielberg's *Band of Brothers,* which offers this translation: "We stand alone."  -->
+
+<!-- On the first day of practice, Coach Lemay explained his understanding of the word. "It means, 'We -->
+<!-- stand alone, together,'" he said. "Currahee." -->
+
+<!-- It was a fitting motto for a wrestling team, whose members grow more close and more comfortable -->
+<!-- with each other perhaps than those of any other high school sport, but also those who stand alone -->
+<!-- against another boy or girl, a stranger, who means to beat them. On the mat, no wrestler among us -->
+<!-- had any help save that roar from the sidelines---not "Webster," not "Statesmen," but "Currahee." -->
+<!-- (Maybe use this as a last line?)  -->
 
 On that first day in early November, sometimes after the regular football season but before the end
 of hte post-season, the multipurpose room became the wrestling room. In that yearly ritual, which
@@ -110,7 +180,7 @@ I still can't really explain what made me one of those who heard Lemay's longer 
 to shave his beard, instead of those who decided that wrestling wasn't for hem. I didn't quit the
 first week or the second, and except for one season when classwork was too demanding, I stuck with
 wrestling to the end of high school. It didn't make much sense. By rights, I had no business
-stepping foor in that single-purpose room with forty other boys and two or three young women. I was
+stepping foot in that single-purpose room with forty other boys and two or three young women. I was
 awkward, nerdy, and still carried fifteen pounds of baby fat. Meets scared me. Tournaments were
 terrifying. I got pinned in the first seven or eight matches I wrestled and went to bed with red
 eyes from crying, that first year.

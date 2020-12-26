@@ -2,62 +2,62 @@
 layout: single
 title:  "How to Get Pinned"
 author: "Benjamin D. Killeen"
-date: 
+date: 2020-12-26
 permalink: /posts/2020/12/how-to-get-pinned/
 tags:
   - Missouri
 ---
 
-Nine months out of the year, most people called it the multipurpose room. In the basement, off the
-hall from the cafeteria, in the same corridor as the weight room and the lockers, the room had the
-proportions of a dance studio or a wine cellar. It was neither. In fact, it felt vaguely
-purposeless for those nine months. Collapsible batting cages hinted at one function, tucked against
-the near wall. Their rolled-up green offered a convenient bench for changing in and out of tennis
-shoes, as long as you could keep your balance. On the ceiling, an insulating foam covered gray
-steel beams, peppered with tiny black dots which once served as the only entertainment during those
-mandatory screenings of "Your Body," that the Health teacher had to show, using a TV cart as wide
-as the doorway and well-equipped with both video-casette and DVD players, minus one remote. I
-remember trying to count the speckles out of boredom.
+Eight months out of the year, most people called it the multipurpose room. It had the proportions
+of a dance studio or a chemistry lab -- although it was neither -- and inhabited the same basement
+hallway as the weight room and the lockers, containing neither weights nor changing areas. Two
+collapsible pitching cages hinted at one function, tucked against the near side wall, but for the
+most part their rolled-up turf served as a convenient bench for changing out of tennis shoes, not
+in use. Above these, gray steel beams supported the corrugated ceiling, covered in an insulating
+foam. The foam was peppered with tiny black dots, which once served as the only entertainment
+during a mandatory screening of "Your Body," that the Health teacher showed, using a TV cart as
+wide as the doorway, well-equipped with both video-casette and DVD players, minus one remote. We
+sat on the floor, since the makeshift classroom had little in the way of seating. It was not, after
+all, really a classroom.
 
-The left and back walls of the multipurpose room reminded everyone of its most inherent role.
-Health had other classrooms and the batting cages could conceivably be moved elsewhere, but the
-orange crash padding, bolted to the concrete of the left and back wall and seemingly out of place
-between between cheap, blue-white floor tiles and low-hanging fluorescent lights between the
-foam-covered beams, was permanent. In later years, the room would take on other, equally permanent
-signifiers of its primary purpose: a painted-orange "champions corner" where every practice ended
-with a self-directed set of fifty push-ups; a peg board and seven pull-up bars bolted just above
-the padding, at different heights; and in the middle of these instruments of physical conditioning
-a hand-painted mural of the wrestling team's logo emblazoned with our unofficial name, "Currahee
-Wrestling."
+Even during those eight months, however, the walls of the multipurpose room reminded visitors
+exactly what that place became, for four long months, and really always was. Health had other
+classrooms; the pitching cages could conceivably be moved upstairs; but the orange crash padding,
+bolted into concrete and seemingly out of place between between cheap, blue-white floor tiles and
+pale fluorescent lights, was permanent. It really belonged. In later years, the room would take on
+other fixed signifiers of the same function: a painted-orange "champions corner" in the back left,
+a peg board and seven pull-up bars along one wall, and in the middle of these instruments a
+hand-painted mural of the team's logo emblazoned with our unofficial name, "Currahee Wrestling."
 
-The logo didn't say, "Statesmen," which was our official school mascot. No one complained. The
-Statesman was an abstract mascot whose signature top hat and twirling baton wouldn't have inspired
-fish to swim. We didn't identify with it. We didn't don "Statesmen Wrestling" hoodies like plates
-of armor against the appraising glances of the Such-and-Such High School Eagles, Wolves, and
-Wildcats that populate every corner of America in place of their apex namesakes. And we certainly
-didn't let loose that vague, unspirited monicker like a wild war cry when nothing else could
-capture the primal blend of cameraderie, pride, and dread which descended after weigh-ins. Instead,
-we grunted "Currahee" in the deepest voice that adolescent boys could muster, and everyone who
-heard us wondered what it meant.
+The logo didn't say "Statesmen" anywhere, although it maybe should have. The statesman was
+Webster's official mascot, a somewhat abstract figure for high school sports. The signature top hat
+and twirling baton which adorned football players' lettermen jackets had no obvious connection to
+the idea of a civil servant and, in any case, struck everyone as meaningless if they made any
+impression at all. Certainly, the statesman didn't inspire us. We didn't don "Statesmen Wrestling"
+hoodies like plates of armor against the appraising glances of the Such-and-Such High School
+Eagles, Wolves, and Wildcats that populate St. Louis County, and we certainly didn't let loose that
+vague, unspirited monicker like a wild war cry when nothing else could capture the primal blend of
+cameraderie, pride, and dread which descended after weigh-ins. Instead, we grunted "Currahee," and
+everyone who heard us wondered what it meant.
 
-To this day, I don't exactly know what inspired Coach to change the name, separating us somewhat
+To this day, I don't know exactly what inspired Coach to change the name, separating his wrestlers
 from the other sports at Webster. Perhaps he objected to the gendered nature of the term, which
 would have excluded our female members in spirit if not in practice. I do not know. Perhaps the
 vaguely nationalistic flavor of a "state's man" rubbed him the wrong way, possessing too large a
-meaning for young wrestlers to carry with them on the mat. Certainly, Coach James Lemay preferred
-what "Currahee" meant. He chose the word based on an episode of *Band of Brothers*, where the 101st
-Airborne runs three miles up, three miles down Currahee mountain. Derived from a Cherokee word,
-"currahee" translates as "We stand alone together," a fitting motto for a division of paratroopers
-who dropped behind enemy lines with no support except each other. James Lemay wanted it to fit his
-wrestling team as well.
+meaning and also too little for young wrestlers to carry with them on the mat. Coach James Lemay
+preferred the meaning of "Currahee." He chose the word based on an episode of *Band of Brothers*,
+where the 101st Airborne runs the Currahee mountain: three miles up, three miles down. Derived from
+a Cherokee word, "currahee" translates as "We stand alone together," a fitting motto for a division
+of paratroopers who dropped behind enemy lines with no support except each other. James Lemay
+wanted it to fit his wrestling team as well, when they walked out on the mat.
 
-On the first day of practice, the multipurpose room became the wrestling room. In that yearly
-ritual, which took place sometimes after the regular football season but before the end of the
-post-season, we dragged out the mats from the storage closet at the back of the room and taped them
-down, to remain there for the duration of the season. This was no simple matter. Each mat weighed
-more than seven freshmen and required extraordinary coordination of mostly new recruits to maneuver
-through the doorway. The upperclassmen, eager to get started, directed the younger boys and two or
-three young women, also new. 
+On the first day of practice, the multipurpose room transformed into the wrestling room. The team
+would drag the mats out from the storage closet and tape them down, to remain there for the next
+four months. This was no simple matter. Each mat weighed more than seven freshmen could carry and
+offered little in the way of handholds. It required extraordinary coordination of mostly new
+recruits to maneuver through the doorway, which the upperclassmen provided by directing the younger
+boys and two or three young women, also new, to grip the sides and tilt it back, slowly. Lift with
+the legs. Don't scrape on the door handle.
 
 Eventually, we finished the mats and got ready for practice. We shed our shoes and applied
 antibacterial foam to arm and leg and face and neck. For warmup, we jogged for ten minutes in a
@@ -67,7 +67,7 @@ occasional daring freshman shouted, "Ten, ten, and ten."
 Instantly, everybody dropped, as if the coach or boy or girl had been a commanding officer of our
 namesake paratroopers announcing incoming fire, and fell into ten push-ups, ten crunches, and ten
 v-ups. We did them quickly. No one wanted to be the last one with his back on the mat, still
-counting dots on the ceiling.
+counting dots on the ceiling. 
 
 After warmup, one of the wrestlers led the stretch. Ten seconds touch your toes. Ten seconds arm
 circles. Down on the ground and crack your back, then bridge up on the back of your head. Keep that
@@ -108,21 +108,22 @@ dignity, maybe join the chess club.
 Practice had a rhythm to it. Lemay or one of the other coaches demonstrated a move, and everyone
 emulated it. Shooting the leg, you wanted to plant your foot and propel over the attacking knee, to
 grab their ankle. At first, we drilled against invisible legs in rows of eight, shooting successive
-shots from the batting cages to the orange padding, rolling over each knee with a smooth intensity
-until we smacked into opposite wall, jogged back to the beginning. New exercise: holding a squat
-position for two minutes at a time. On the mat, a wrestler maintained a low stance that set their
-quads on fire but made them more difficult to attack. You could always tell when your opponent was
-ready to get pinned when they started standing taller, exhausted. 
+shots from the batting cages to the orange padding, rolling over each knee with smooth intensity
+until we smacked into opposite wall, jogged back to the beginning. 
+
+New exercise: holding a squat position for two minutes at a time. On the mat, a wrestler maintains
+a low stance that sets their quads on fire but made them more difficult to attack. You could always
+tell when your opponent was ready to get pinned when they started standing taller, exhausted.
 
 Next move: sprawl. When someone shot on you, you wanted to get your legs out of the way. You did
 that by slamming your hip down on their shoulder, with the full intention of slamming it into the
-mat. Without an actual attacker, that was what we did. A coach shouted, "Sprawl!" and two dozen
-hips hit the ground like an avalanche, only to pop back up, squat low for another fifteen, fourteen
-seconds before--"Sprawl!"--we dropped again.
+mat. Without an actual attacker, that was what we did. Coach shouted, "Sprawl!" and two dozen hips
+hit the ground like an avalanche, only to pop back up, squat low for another fifteen, fourteen
+seconds before -- "Sprawl!" -- we dropped again.
 
 At this point, even the upperclassmen struggled. The whole team was tired. We straightened whenever
-we felt like we could get away with it, and our clean sprawls diminished into half-hearted
-flops. If we didn't already, now we knew why wrestling was the only sport at Webster that didn't
+we felt like we could get away with it, and our clean sprawls devolved into half-hearted
+flops. Now, if not before, we knew why wrestling was the only sport at Webster that didn't
 hold tryouts. It didn't need them.
 
 At the end of it, practice still wasn't over. "Start running," Lemay said.
@@ -154,18 +155,18 @@ This time we all joined in. "Currahee!"
 
 "TOGETHER." The senior's breath almost gave out on the final syllable, but we echoed him all the same.
 
-"Together!"
+"TOGETHER!"
 
 We kept running until the clock said 5:25. One of the freshmen even dared to lead another round of
 "Currahee." One of the young women, I remember.
 
-"All right, circle up," said Lemay, when it was finished.
+"All right, circle up," said Lemay, when it was finished. He seemed satisfied.
 
 He spent the last five minutes of practice going over logistics. Practice started at 3:00 P.M.. It
-ended at 5:30, but everyone should shower after, so we should plan on being done by 6
-P.M.. Saturday practices were optional, but unless you had a family reunion somewhere in Kansas,
-you should probably be there. No ride? Run. Too far? Coach or one of the upperclassmen would come
-and pick you up and bring you breakfast if necessary. Lemay didn't want anyone left out.
+ended at 5:30, but everyone should shower after, so plan on being done by 6 P.M.. Saturday
+practices were optional, but unless you had a family reunion somewhere in Kansas, you should
+probably be there. No ride? Run. Too far? Coach or one of the upperclassmen would come and pick you
+up and bring you breakfast if necessary. Lemay didn't want anyone left out.
 
 I listened in a daze, breathing hard. I barely heard when Lemay called us into a huddle.
 
@@ -174,8 +175,8 @@ corner?"
 
 It was the back left.
 
-"That's champions corner," Lemay said. "Practice is over, but if you want, you can do fifty pushups
-at the end of practice. Totally up to you. Now, 'Currahee' on three. One, two, three--"
+"That's the champions corner," Lemay said. "Practice is over, but if you want, you can do fifty
+pushups at the end of practice. Totally up to you. Now, 'Currahee' on three. One, two, three--"
 
 "CURRAHEE!" we shouted.
 
@@ -191,11 +192,14 @@ race, others taking their time. They broke fifty into five sets of ten, two of t
 of twenty and one ten. It didn't matter. They still did them together. 
 
 Without my asking, one of them made room for me. I threw my hips back and dropped to the mat. I
-could barely lift myself back up again, but I did. Fifty push-ups later, I finally headed off the
-mat. I would be back. I still believed I would probably quit eventually, but I could do one more
-day, one more week.
+could barely lift myself back up again, but I did. Fifty push-ups later, I headed off the mat. I
+would be back. I still believed I would probably quit eventually, but I could do one more day, one
+more week.
 
 Currahee, after all.
+
+
+<!-- TODO: next post: How to Walk Out There -->
 
 <!-- I was never particularly *good* at it, and matches terrified me. I lost fifteen pounds in two -->
 <!-- months and gained a modicum of muscle. I cut my curly hair, which was annoying to wrestle with. -->
@@ -223,11 +227,6 @@ Currahee, after all.
 <!-- individual medals, we can never practice on our own. Drilling moves requires a partner, preferably -->
 <!-- one with roughly equal weight and skill, who ultimately teaches you more about a given move than -->
 <!-- the instructor. The sport of wrestling, as I experienced it, depended on being part of a group. -->
-
-
-
-
-
 
 
 

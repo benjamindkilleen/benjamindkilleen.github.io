@@ -112,10 +112,10 @@ truth on his students than about the particular content he was teaching. I do no
 such as those particular truths that Marx or Tocqueville put forth, but "truth" as a concept in of
 itself: the idea that some positions are inherently correct, others are wrong, and still others can
 be argued. Recognizing these categories is difficult. Yet Lyons clearly considered it a much more
-crucial skill than the crucial skill than explaining anything John Stuart Mill had to say in *On
-Liberty*. Often, he quoted the line from his favorite movie, "That's just your opinion, man,"
-sometimes ironically, often directed toward himself, and now and then as a gentle reminder that one
-or all of us might simply be wrong.
+crucial skill than explaining anything John Stuart Mill had to say in *On Liberty*. Often, he
+quoted the line from his favorite movie, "That's just your opinion, man," sometimes ironically,
+often directed toward himself, and now and then as a gentle reminder that one or all of us might
+simply be wrong.
 
 Of course, David Lyons himself had some very strong opinions. In "Guidelines for Written Work," a
 separate document which he distributed alongside the syllabus, Prof. Lyons listed several
@@ -178,7 +178,7 @@ which David Lyons estimated truth. That is to say: reasoning.
 
 Opinions based on such a firm foundation are not so easily dismissed as *the dude*'s oft-repeated
 abnegation would like to assert. The choice of *Watchmen*'s hero was definitely up for debate, as
-most matters opinion are, but that didn't make every position debatable. No one claimed the
+most matters of opinion are, but that didn't make every position debatable. No one claimed the
 comedian as their hero. Moreover, no one felt so strongly about their own position that they were
 unwilling to adopt someone else's definition of "hero," in order to understand their
 argument. Thus, we reached a closer approximation of truth, on that hot Tuesday morning on May,

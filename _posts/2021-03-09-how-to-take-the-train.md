@@ -17,9 +17,9 @@ agricultural quilt knitted into the Midwest. For those traveling alone, it has a
 captivating quality.
 
 I used to take the Amtrak at the end of every quarter. I could have driven, if I owned a car, or
-flown from Midway airport, but the Southwest flight cost \$138, while a single seat on the Texas
+flown from Midway airport, but the Southwest flight cost \\$138, while a single seat on the Texas
 Eagle, a double-decker corrugated tin snake with polyester blue curtains and no wifi, sold for
-\$27. The train was appropriately slow. The lone star locomotive never exceeded 90 mph on its
+\\$27. The train was appropriately slow. The lone star locomotive never exceeded 90 mph on its
 journey south, and it ran considerable risk of running late, breaking down, or sharing track with
 sluggish freight, which for arcane reasons actually had priority over passenger rail. Over my four
 years in Chicago, I experienced numerous such delays, so many in fact that my family grew

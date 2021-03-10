@@ -2,7 +2,7 @@
 layout: single
 title:  "How to Take the Train"
 author: "Benjamin D. Killeen"
-date: 2021-01-15
+date: 2021-03-10
 permalink: /posts/2021/03/how-to-take-the-train/
 tags:
   - Chicago

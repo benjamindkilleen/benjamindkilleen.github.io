@@ -9,28 +9,27 @@ tags:
   - Missouri
 ---
 
-The Amtrak overlooks a lot of cornfields in between Chicago and St. Louis. Not *just* corn, of
-course. There are also creekbeds, interstates, and cul-de-sacs; minor leage baseball stadiums; and
-a grafittied concrete beam at Union station which reads, "Have a great day."  These attractions
-notwithstanding, the train's predominant view consists of row after row of that patchwork
-agricultural quilt knitted into the Midwest. For those traveling alone, it has a strangely
-captivating quality.
+The Amtrak overlooks a lot of cornfields in between Chicago and St. Louis. Of course, there are
+also creekbeds, interstates, and cul-de-sacs; minor leage baseball stadiums; and a grafittied
+concrete beam at Union station which reads, "Have a great day."  These attractions notwithstanding,
+the train's predominant view consists of corn: row after row of that patchwork Midwest quilt
+knitted in the Earth.
 
 I used to take the Amtrak at the end of every quarter. I could have driven, if I owned a car, or
 flown from Midway airport, but the Southwest flight cost \\$138, while a single seat on the Texas
 Eagle, a double-decker corrugated tin snake with polyester blue curtains and no wifi, sold for
-\\$27. The train was appropriately slow. The lone star locomotive never exceeded 90 mph on its
-journey south, and it ran considerable risk of running late, breaking down, or sharing track with
-sluggish freight, which for arcane reasons actually had priority over passenger rail. Over my four
-years in Chicago, I experienced numerous such delays, so many in fact that my family grew
-accustomed to timing their departure based on Find my iPhone rather than the stated time of
-arrival, so as to occupy that pale-fluorescent waiting room inside the Gateway Transportation
-Center for as little time as possible. In one instance, my 9 A.M. departure broke down just outside
-of Joplin, at 9:40. I spent the next twelve hours texting back and forth about the second engine
-breaking down as well, the linkup with 11:30's Texas Eagle to the rescue, and the lack of
-horsepower that resulted in our combined ten-mile-an-hour crawl across the snowy fields of
-Illinois. It was December. My family had tickets to *A Christmas Carol* at 8:30, half the day
-beyond when I was scheduled to arrive, but still I didn't make it.
+\\$27. The train was correspondingly slow. The lone star locomotive never exceeded 90 mph on its
+southward journey, and it ran the risk of breaking down or sharing track with sluggish freight
+trains, which for arcane reasons actually had priority over passenger rail. Over my four years in
+Chicago, I experienced numerous delays. In fact, my family grew accustomed to timing their
+departure based on Find my iPhone rather than the stated schedule, so as to occupy that
+pale-fluorescent waiting room inside the Gateway Transportation Center for as little time as
+possible. In one instance, my 9 A.M. departure broke down just outside of Joplin, at 9:40. I spent
+the next twelve hours texting back and forth about the second engine breaking down as well, the
+linkup with 11:30's Texas Eagle to the rescue, and the lack of horsepower that resulted in our
+combined ten-mile-an-hour crawl across the snowy fields of Illinois. It was December 2016. My
+family had tickets to *A Christmas Carol* at 8:30, half the day beyond when I was scheduled to
+arrive, but still I didn't make it.
 
 After that debacle, my family paid the Southwest fee whenever my arrival coincided with some other
 scheduled plan, be it Christmas plays at home, Thanksgiving in Kansas City, or vacation in
@@ -61,16 +60,18 @@ innumerable idiosyncracies, possess an overwhelming sameness. On the other hand,
 inherit character from the surrounding countryside. Even the Gateway Transportation Center, a
 soulless grey slab squeezed beneath the interstate, boasts a riverside view of downtown St. Louis
 on approach. At the end of every quarter, I returned home to the Arch's ghostly gleam, cut right
-across the moonlit Mississippi more like a mirage than the reflection of a building. Every city has
-a tarmac. Only my hometown has that particular stretch of track.
+across the moonlit Mississippi, seeming more like mirage than a building's reflection. Every city has a
+tarmac. Only my hometown has that particular stretch of track.
 
-Every time, that is, except that time the Amtrak engine broke down just outside of Joplin. Dad, not
-wanting me to miss *A Christmas Carol*, decided to intercept the Franken-train in Springfield or
-maybe Lincoln, Illinois, depending on the double-decker's progress. These were optimistic
-goals. Three hours later, he finally reached me in Bloomington-Normal, a college town situated at
-the midpoint of St. Louis and Chicago. I disembarked in downtown Normal, and the train slouched on
-without me. Christmas lights lit up the snowy night. I found Dad's SUV in the parking lot. By then,
-we had no hope of making the play, so Dad looked up an Irish Pub on Apple Maps and bought me
-dinner. I devoured it hungrily. Then we drove the whole way home, catching up on politics, extended
-family, and the latest Netflix drama, while just outside the endless rows of dead and frozen corn
-whizzed by, utterly unnoticed.
+Every time, that is, except December 2016, when my ride experienced two engine failures before
+linking up with another line. Dad, not wanting me to miss *A Christmas Carol*, decided to intercept
+the Franken-train in Springfield or maybe Lincoln, depending on its progress. These were optimistic
+estimates. Dad passed through Springfield without stopping, and in Lincoln he called to confirm my
+slow crawl through northern Illinois. Hours later, he finally reached me in Bloomington-Normal, a
+college town situated halfway between St. Louis and Chicago. I disembarked in downtown Normal, and
+the train slouched on without me. Christmas lights lit up the wintry night. I found Dad's SUV in the
+parking lot, and he loaded my bags into the trunk. By then, we had no hope of making the play, so
+Dad looked up an Irish pub on Apple Maps and bought me dinner. I devoured it hungrily. Then we
+drove the whole way home, catching up on politics, extended family, and the latest Netflix drama
+while just outside, the endless snow-covered cornfields swallowed up the nighttime highway's
+scattered light, fading toward the flat horizon unnoticed.

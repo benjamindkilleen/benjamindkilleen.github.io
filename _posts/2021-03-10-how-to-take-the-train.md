@@ -10,7 +10,7 @@ tags:
 ---
 
 The Amtrak overlooks a lot of cornfields in between Chicago and St. Louis. Of course, there are
-also creekbeds, interstates, and cul-de-sacs; minor leage baseball stadiums; and a grafittied
+also creekbeds, interstates, and cul-de-sacs; minor league baseball stadiums; and a grafittied
 concrete beam at Union station which reads, "Have a great day."  However, the train's predominant
 view consists of corn: row after row of that patchwork Midwest quilt knitted in the Earth. It was
 strangely captivating.

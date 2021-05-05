@@ -190,6 +190,8 @@ bothered that no one shared his opinion.
 
 "Have a good summer," he added. "Keep in touch."
 
+![The stacks in the Regenstein Library, where I wrote my papers for Classics.](/images/regenstein.jpeg)
+
 -------------------------------------------------------------------------------
 
 *The names of the students mentioned have been altered to respect their privacy.*

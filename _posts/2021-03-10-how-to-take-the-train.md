@@ -74,3 +74,5 @@ play, so Dad looked up an Irish pub on Apple Maps and bought me dinner. I devour
 hungrily. Then we drove the whole way home, catching up on politics, extended family, and the
 latest television drama while just outside the endless snow-covered cornfields swallowed up the
 nighttime highway's scattered light and faded toward the flat horizon.
+
+![A cornfield in Illinois. Image credit: carlfbagge. Creative commons license.](/images/cornfield.jpg)

@@ -77,3 +77,5 @@ the little I'd written consisted of amorphous fragments not necessarily worth in
 O'Leary encouraged me that they were. He understood, perhaps, that the pre-meds or comp-sci majors
 like me needed an extra push to pursue something we valued if it was outside our chosen field. It
 took someone like him, telling us, in order to believe we should.
+
+![The Midway in winter.](/images/midway.jpeg)

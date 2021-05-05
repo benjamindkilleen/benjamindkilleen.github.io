@@ -61,3 +61,5 @@ around with our trolling motor, we cast as close as we can to the shore. The tri
 hooked on a branch, which one accomplishes by flicking the wrist and flipping the bail just so. The
 game stems from our competitive natures, I know, but it also creates a space for long
 conversations. It results in many snags, few fish, and a great sense of accomplishment.
+
+![Valley Park Lake](/images/valley_park.jpeg)

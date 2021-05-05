@@ -65,7 +65,7 @@ a tarmac. Only my hometown has that particular stretch of track.
 Even the great engine failure of December 2016 stands out fondly in my memory. Dad, not wanting me
 to miss *A Christmas Carol*, decided to intercept my Franken-train in Springfield or maybe Lincoln,
 depending on its progress. These were optimistic estimates. Dad passed through Springfield without
-stopping, and in Lincoln he called to confirm the lomotive was still crawling through northern
+stopping, and in Lincoln he called to confirm the locomotive was still crawling through northern
 Illinois. Hours later, he finally reached me in Bloomington-Normal, a college town situated halfway
 between St. Louis and Chicago. I disembarked in downtown Normal, and the train slouched on without
 me. Christmas lights lit up the wintry night. I found Dad's SUV in the parking lot and loaded my

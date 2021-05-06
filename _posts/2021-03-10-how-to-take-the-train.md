@@ -10,7 +10,7 @@ tags:
 ---
 
 The Amtrak overlooks a lot of cornfields in between Chicago and St. Louis. Of course, there are
-also creekbeds, interstates, and cul-de-sacs; minor league baseball stadiums; and a grafittied
+also creek beds, interstates, and cul-de-sacs; minor league baseball stadiums; and a graffitied
 concrete beam at Union station which reads, "Have a great day."  However, the train's predominant
 view consists of corn: row after row of that patchwork Midwest quilt knitted in the Earth. It was
 strangely captivating.
@@ -35,7 +35,7 @@ the plane for Christmas parties in St. Louis, Thanksgiving in Kansas City, and v
 north woods of Wisconsin. At the same time, I was forming connections in California, where I have
 twice interned, and Maryland, where I ended up after Chicago. Thus, I have endured the airports of
 a dozen Midwest towns, as well as those of both the far-flung, non-flyover coasts this country has
-to offer. I can confidently call myself a fair reviewer of the airborn mode of travel, at least
+to offer. I can confidently call myself a fair reviewer of the airborne mode of travel, at least
 domestically. While flying is convenient, to be sure, the experience leaves much to be desired.
 
 Where the airplane excels in timeliness, the Amtrak offers refuge. Those cardboard cutouts that
@@ -49,12 +49,12 @@ another. Otherwise, I entertained myself with leisures I could not enjoy while c
 time, such as several Netflix seasons or a single game of Civilization VI. Once, in an unusual
 burst of train-bound productivity, I started programming a [Rubik's cube
 solver](https://github.com/benjamindkilleen/functional-rubiks-solver), a tricky project which would
-occupy my holidy hours in between family gatherings, simply for the fun of it.
+occupy my holiday hours in between family gatherings, simply for the fun of it.
 
 In this manner, the train ride always accomplished what flying tends to fail at: transition. A
 plane is like a hotel elevator, ferrying strangers from one carbon copied hallway to another,
 leaving little impression of having actually moved other than a ringing in the ear. Hotel hallways
-are identical by design, and airports, despite their innumerable idiosyncracies, possess an
+are identical by design, and airports, despite their innumerable idiosyncrasies, possess an
 overwhelming sameness. The same cannot be said of train stations, which, in addition to being
 generally more charming, inherit character from their surroundings. Even the Gateway Transportation
 Center, a soulless grey slab squeezed beneath the interstate, boasts a riverside view of downtown
@@ -75,4 +75,4 @@ hungrily. Then we drove the whole way home, catching up on politics, extended fa
 latest television drama while just outside the endless snow-covered cornfields swallowed up the
 nighttime highway's scattered light and faded toward the flat horizon.
 
-![A cornfield in Illinois. Image credit: carlfbagge. Creative commons license.](/images/cornfield.jpg)
+![Image credit: https://www.tumblr.com/register/follow/newoldstockphotos](/images/cornfield.jpg)

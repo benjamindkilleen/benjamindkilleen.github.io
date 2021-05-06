@@ -1,12 +1,14 @@
 ---
 layout: single
-title:  "How to Visit San Francisco"
+title:  "How to "
 author: "Benjamin D. Killeen"
 date: 2021-03-30
 permalink: /posts/2020/03/how-to-visit-san-francisco
 tags:
   - California
 ---
+
+
 
 I have only been to San Francisco twice, so take my word with just a tablespoon of salt. 
 

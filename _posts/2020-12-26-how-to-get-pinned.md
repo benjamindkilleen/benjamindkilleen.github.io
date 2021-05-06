@@ -16,14 +16,14 @@ most part their rolled-up turf served as a convenient bench for changing out of 
 in use. Above these, gray steel beams supported the corrugated ceiling, covered in an insulating
 foam. The foam was peppered with tiny black dots, which once served as the only entertainment
 during a mandatory screening of "Your Body," that the Health teacher showed, using a TV cart as
-wide as the doorway, well-equipped with both video-casette and DVD players, minus one remote. We
+wide as the doorway, well-equipped with both video-cassette and DVD players, minus one remote. We
 sat on the floor, since the makeshift classroom had little in the way of seating. It was not, after
 all, really a classroom.
 
 Even during those eight months, however, the walls of the multipurpose room reminded visitors
 exactly what that place became, for four long months, and really always was. Health had other
 classrooms; the pitching cages could conceivably be moved upstairs; but the orange crash padding,
-bolted into concrete and seemingly out of place between between cheap, blue-white floor tiles and
+bolted into concrete and seemingly out of place between cheap, blue-white floor tiles and
 pale fluorescent lights, was permanent. It really belonged. In later years, the room would take on
 other fixed signifiers of the same function: a painted-orange "champions corner" in the back left,
 a peg board and seven pull-up bars along one wall, and in the middle of these instruments a
@@ -36,8 +36,8 @@ the idea of a civil servant and, in any case, struck everyone as meaningless if 
 impression at all. Certainly, the statesman didn't inspire us. We didn't don "Statesmen Wrestling"
 hoodies like plates of armor against the appraising glances of the Such-and-Such High School
 Eagles, Wolves, and Wildcats that populate St. Louis County, and we certainly didn't let loose that
-vague, unspirited monicker like a wild war cry when nothing else could capture the primal blend of
-cameraderie, pride, and dread which descended after weigh-ins. Instead, we grunted "Currahee," and
+vague, uninspired monicker like a wild war cry when nothing else could capture the primal blend of
+camaraderie, pride, and dread which descended after weigh-ins. Instead, we grunted "Currahee," and
 everyone who heard us wondered what it meant.
 
 To this day, I don't know exactly what inspired Coach to change the name, separating his wrestlers

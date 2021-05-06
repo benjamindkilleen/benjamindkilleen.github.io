@@ -181,7 +181,7 @@ abnegation would like to assert. The choice of *Watchmen*'s hero was definitely 
 most matters of opinion are, but that didn't make every position debatable. No one claimed the
 comedian as their hero. Moreover, no one felt so strongly about their own position that they were
 unwilling to adopt someone else's definition of "hero," in order to understand their
-argument. Thus, we reached a closer approximation of truth, on that hot Tuesday morning on May,
+argument. Thus, we reached a closer approximation of truth, on that hot Tuesday morning in May,
 while David Lyons listened thoughtfully, all the while drinking his La Croix.
 
 David Lyons, for his part, thought the hero of *Watchmen* was Bernard, the ordinary man who sold

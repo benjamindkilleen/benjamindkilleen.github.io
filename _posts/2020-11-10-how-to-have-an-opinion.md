@@ -132,7 +132,7 @@ I imagine Prof. Lyons would object to my characterizing his positions on writing
 opinion. Indeed, I believe that following the "Guidelines" made me a better writer. Yet the
 distinction between these particular opinions and "just your opinion, man" illustrates the kind of
 truth that Prof. Lyons cared so deeply about. Over the objections of his students, many of whom
-felt that "impact" worked just fine as a synonym for "effect," he imposed the guidelines because he
+felt that "impact" worked just fine as a synonym for "affect," he imposed the guidelines because he
 could support them. He pointed to the appendix of George Orwell's essay, "[The Principles of
 Newspeak](https://orwell.ru/library/novels/1984/english/en_app)" as the basis for his guidelines,
 an elegant and enjoyable piece of persuasive writing which Orwell included in the appendix to

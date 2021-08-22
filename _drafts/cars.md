@@ -8,7 +8,7 @@ tags:
   - MWC Space
 ---
 
-Apprehensive, I asked, "How do you keep yourself from just flooring it?"
+Apprehensively, I said, "How do you keep yourself from just flooring it?"
 
 Dad laughed. "Good question. I guess you just get used to it."
 
@@ -18,7 +18,9 @@ Of course, I resisted my inner speed racer. It was my first time driving outside
 
 I wanted to drive.
 
-I couldn't imagine, when I had my learner's permit, just how easy it would be to just forget the body in the driver's seat and in a sense _become_ the car, not in any remarkable sense but rather in the most mundane.
+<!-- describe concept of being roadlocked -->
+
+I couldn't imagine, when I had my learner's permit, just how easy it would be to utterly forget the body in the driver's seat and in a sense _become_ the car. <!-- In a mundane way -->
 
 <!-- The car is not a pretty thing. It preys upon our cities like a parasitic worm inhabiting the small intestine. Voracious, it consumes the avenues. It gobbles up the undigested promenades and puts up strip malls in their place. We tell ourselves, "It's so convenient," starving on our long commutes. "At least we have our podcasts," while the worm grows fat with traffic. We think to sate the beast with interstates and extra lanes, connecting far-flung, fat-cat enclaves to the emaciated inner cities around which they base their whole existence. Yet the car is never satisfied. It -->
 

@@ -13,7 +13,7 @@ name: &name "Benjamin D. Killeen"
 description: &description "Ph.D. Student, Department of Computer Science, Johns Hopkins University"
 url: https://benjamindkilleen.com
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "benjamindkilleen/academic-website"
+repository: "benjamindkilleen/benjamindkilleen.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160

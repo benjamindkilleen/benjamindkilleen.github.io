@@ -80,7 +80,7 @@ analytics:
 author:
   name: "Benjamin D. Killeen"
   avatar: "profile.png"
-  bio: "Ph.D. Student in Computer Science"
+  bio: "PhD Student"
   location:
   employer: "Johns Hopkins University"
   pubmed:
@@ -114,7 +114,7 @@ author:
   xing:
   youtube:
   wikipedia:
-  mastodon: "https://fediscience.org/@bdkilleen"
+  mastodon: "https://sigmoid.social/@bdkilleen"
 
 # Reading Files
 include:

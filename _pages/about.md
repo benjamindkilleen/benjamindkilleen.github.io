@@ -8,25 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-A Ph.D. Student at [Johns Hopkins University](https://www.jhu.edu/), I am interested in intelligent
-surgical systems based on explorative computer vision and deep reinforcement learning that directly
-improve patient outcomes. I am a member of the Advanced Robotics and Computationally Augmented
+A 4th year Ph.D. candidate at [Johns Hopkins University](https://cs.jhu.edu), I am interested in
+intelligent surgical systems that improve patient outcomes. My [recent
+work](https://scholar.google.com/citations?hl=en&user=QX7AvxUAAAAJ&view_op=list_works&sortby=pubdate)
+involves realistic simulation of interventional X-ray imaging for the purpose of developing
+AI-integrated surgical systems. I am a member of the Advanced Robotics and Computationally Augmented
 Environments ([ARCADE](https://arcade.cs.jhu.edu/)) research group, led by [Mathias
-Unberath](https://mathiasunberath.github.io/) and the Computational Interaction and Robotics
-Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)), led by [Gregory
-D. Hager](https://www.cs.jhu.edu/hager/).
+Unberath](https://mathiasunberath.github.io), as well as the President of the [LCSR Graduate Student
+Association](https://lcsr.jhu.edu/lcsr-gsa/) (GSA) and Sports Officer for the [MICCAI Student
+Board](http://www.miccai.org/about-miccai/student-board/). In 2019, I earned a B.A. in Computer
+Science with Honors from the [University of Chicago](https://uchicago.edu), with a minor in Physics,
+and I have completed internships at [IBM Research -
+Almaden](https://www.research.ibm.com/labs/almaden/), [Epic Systems](https://www.epic.com), and
+[Intuitive Surgical](https://www.intuitive.com/en-us). In my spare time, I enjoy bouldering and
+[creative writing](https://benjamindkilleen.com/blog/).
 
-I have (first/co)authored peer-reviewed journal articles and conference papers. For a complete
-list of my publications, please see my [CV](https://benjamindkilleen.com/markdown-cv/) or [Google
-Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ).
+<!-- Third person version: -->
 
-In 2019, I completed my undergraduate education at the [University of
-Chicago](https://uchicago.edu), receiving a B.A. in Computer Science with Honors and a minor in
-Physics, advised by [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/). I have also been
-fortunate enough to intern with [IBM Research](https://www.research.ibm.com/labs/almaden/) under
-[Geoffrey Burr](https://researcher.watson.ibm.com/researcher/view.php?person=us-gwburr), [Epic
-Systems](https://www.epic.com/) in Cognitive Computing, and [Intuitive
-Surgical](https://www.intuitive.com/en-us) under Omid Mohareri.
-
-In my spare time, I pursue creative writing. For some recent examples, please see [my
-blog](https://benjamindkilleen.com/blog/).
+<!-- A 4th year Ph.D. candidate at [Johns Hopkins University](https://cs.jhu.edu), Benjamin D. Killeen is -->
+<!-- interested in intelligent surgical systems that improve patient outcomes. His [recent -->
+<!-- work](https://scholar.google.com/citations?hl=en&user=QX7AvxUAAAAJ&view_op=list_works&sortby=pubdate) -->
+<!-- involves realistic simulation of interventional X-ray imaging for the purpose of developing -->
+<!-- AI-integrated surgical systems. Benjamin is a member of the Advanced Robotics and Computationally -->
+<!-- Augmented Environments ([ARCADE](https://arcade.cs.jhu.edu/)) research group, led by [Mathias -->
+<!-- Unberath](https://mathiasunberath.github.io), as well as the President of the [LCSR Graduate Student -->
+<!-- Association](https://lcsr.jhu.edu/lcsr-gsa/) and Sports Officer for the [MICCAI Student -->
+<!-- Board](http://www.miccai.org/about-miccai/student-board/). In 2019, he earned a B.A. in Computer -->
+<!-- Science with Honors from the [University of Chicago](https://uchicago.edu), with a minor in Physics, -->
+<!-- and he has completed internships at [IBM Research - -->
+<!-- Almaden](https://www.research.ibm.com/labs/almaden/), [Epic Systems](https://www.epic.com), and -->
+<!-- [Intuitive Surgical](https://www.intuitive.com/en-us). In his spare time, he enjoys bouldering and -->
+<!-- [creative writing](https://benjamindkilleen.com/blog/). -->

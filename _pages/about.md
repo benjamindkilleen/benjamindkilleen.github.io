@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**On the faculty job market!**
+
 A Ph.D. candidate at [Johns Hopkins University](https://cs.jhu.edu), I am interested in intelligent
 surgical systems that improve patient outcomes. My [recent
 work](https://scholar.google.com/citations?hl=en&user=QX7AvxUAAAAJ&view_op=list_works&sortby=pubdate)

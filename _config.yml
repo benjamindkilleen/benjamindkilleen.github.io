@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Benjamin D. Killeen"
 title_separator: "-"
 name: &name "Benjamin D. Killeen"
-description: &description "Ph.D. Student, Department of Computer Science, Johns Hopkins University"
+description: &description "Ph.D. Candidate, Department of Computer Science, Johns Hopkins University"
 url: https://benjamindkilleen.com
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "benjamindkilleen/benjamindkilleen.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name: "Benjamin D. Killeen"
   avatar: "profile.jpeg"
-  bio: "PhD Student"
+  bio: "Ph.D. Candidate"
   location:
   employer: "Johns Hopkins University"
   pubmed:

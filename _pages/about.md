@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**On the faculty job market!**
+<br/> 
+
+~~~ **On the faculty job market!** ~~~
+
+<br/> 
 
 A fifth-year Ph.D. student at [Johns Hopkins University](https://cs.jhu.edu), I am interested in the
 future of AI- and robot-assisted interventional healthcare. My [recent

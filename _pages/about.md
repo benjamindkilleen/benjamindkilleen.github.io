@@ -45,7 +45,7 @@ reach out with the [requested information](https://benjamindkilleen.com/contact)
 hearing from you!
 
 In my spare time, I enjoy running, bouldering, and creative writing. I am an avid fan of art
-museums. Coffee conquers all.
+museums and espresso, especially together.
 
 <!-- Third person version: -->
 

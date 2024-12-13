@@ -100,7 +100,8 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  medium: "benjamindkilleen"
+  # medium: "benjamindkilleen"
+  medium:
   linkedin: "https://linkedin.com/ln/benjamindkilleen"
   orcid: "https://orcid.org/0000-0003-2511-7929"
   pinterest:
@@ -114,7 +115,7 @@ author:
   xing:
   youtube:
   wikipedia:
-  mastodon: "https://sigmoid.social/@bdkilleen"
+  # mastodon: "https://sigmoid.social/@bdkilleen"
 
 # Reading Files
 include:

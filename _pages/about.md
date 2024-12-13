@@ -23,6 +23,8 @@ experiences. I am a member of the Advanced Robotics and Computationally Augmente
 ([ARCADE](https://arcade.cs.jhu.edu/)) research group, led by [Mathias
 Unberath](https://mathiasunberath.github.io), and the Computation Interaction and Robotics
 Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)) led by [Greg Hager](https://www.cs.jhu.edu/hager/).
+I am also a member of the [Siebel Scholar Class of 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/),
+which recognizes students at leading graduate schools of business, computer science, bioengineering, and energy science for their academic excellence and research contributions.
 In 2023, I received the [Link Foundation Fellowship in Modeling, Simulation, and
 Training](https://www.cs.jhu.edu/news/link-foundation-fellowship/), which supports my work preparing
 clinicians for the future operating room using interactive digital twins. In 2019, I earned a B.A.

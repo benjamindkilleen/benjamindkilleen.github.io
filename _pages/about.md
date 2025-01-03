@@ -33,9 +33,9 @@ in Physics. Outside of academia, I have interned with [IBM Research -
 Almaden](https://www.research.ibm.com/labs/almaden/), [Epic Systems](https://www.epic.com), and
 [Intuitive Surgical](https://www.intuitive.com/en-us).
 
-I have published numerous peer-reviewed journal articles and conference papers in international
-venues, including IPCAI, MICCAI, CVPR, and Nature Machine Intelligence. For a full list of papers,
-awards, and press, please refer to my [CV](https://benjamindkilleen.com/files/cv_killeen.pdf).
+I have published peer-reviewed journal articles and conference papers in international venues,
+including IPCAI, MICCAI, CVPR, and Nature Machine Intelligence. For further details, please refer to
+my [CV](https://benjamindkilleen.com/files/cv_killeen.pdf).
 
 Throughout my efforts, I strive to foster an inclusive environment for all. I have served as the
 President of the [LCSR Graduate Student Association](https://lcsr.jhu.edu/lcsr-gsa/) (GSA) and in

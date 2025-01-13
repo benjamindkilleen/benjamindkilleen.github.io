@@ -14,7 +14,7 @@ redirect_from:
 
 <br/> 
 
-A fifth-year Ph.D. student at [Johns Hopkins University](https://cs.jhu.edu), I am interested in the
+An ABD Ph.D. candidate at [Johns Hopkins University](https://cs.jhu.edu), I am interested in the
 future of AI- and robot-assisted interventional healthcare. My [recent
 work](https://scholar.google.com/citations?hl=en&user=QX7AvxUAAAAJ&view_op=list_works&sortby=pubdate)
 advances physics- and learning-based simulations -- from single image formation to room-scale

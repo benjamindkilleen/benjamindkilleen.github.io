@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<br/> 
+<!-- <br/>  -->
 
-~~~ **On the faculty job market!** ~~~
+<!-- ~~~ **On the faculty job market!** ~~~ -->
 
-<br/> 
+<!-- <br/>  -->
 
-An ABD Ph.D. candidate at [Johns Hopkins University](https://cs.jhu.edu), I am interested in the
+A recent Ph.D. graduate from [Johns Hopkins University](https://cs.jhu.edu), I am interested in the
 future of AI- and robot-assisted interventional healthcare. My [recent
 work](https://scholar.google.com/citations?hl=en&user=QX7AvxUAAAAJ&view_op=list_works&sortby=pubdate)
 advances physics- and learning-based simulations -- from single image formation to room-scale
@@ -34,7 +34,7 @@ Almaden](https://www.research.ibm.com/labs/almaden/), [Epic Systems](https://www
 [Intuitive Surgical](https://www.intuitive.com/en-us).
 
 I have published peer-reviewed journal articles and conference papers in international venues,
-including IPCAI, MICCAI, CVPR, and Nature Machine Intelligence. For further details, please refer to
+including IPCAI, MICCAI, CVPR, and Nature Machine Intelligence. For details, please refer to
 my [CV](https://benjamindkilleen.com/files/cv_killeen.pdf).
 
 Throughout my efforts, I strive to foster an inclusive environment for all. I have served as the

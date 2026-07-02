@@ -1,0 +1,26 @@
+{% assign pub = include.pub %}
+{% assign anchor = pub.key | replace: "pub:", "" %}
+<div class="pub-card{% if pub.first_author %} pub-card--first{% endif %}" id="{{ anchor }}">
+  <h3 class="pub-title">
+    {%- if pub.arxiv_id -%}
+      <a href="https://arxiv.org/abs/{{ pub.arxiv_id }}">{{ pub.title }}</a>
+    {%- elsif pub.doi -%}
+      <a href="https://doi.org/{{ pub.doi }}">{{ pub.title }}</a>
+    {%- else -%}
+      {{ pub.title }}
+    {%- endif -%}
+  </h3>
+  <p class="pub-authors">{{ pub.authors_html }}</p>
+  <p class="pub-venue"><em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}</p>
+  {% for note in pub.notes %}<p class="pub-note">{{ note }}</p>{% endfor %}
+  <p class="pub-badges">
+    {% if pub.first_author %}<span class="pub-badge pub-badge--first">First author</span>{% endif %}
+    {% if pub.award %}<span class="pub-badge pub-badge--award"><i class="fas fa-award" aria-hidden="true"></i> {{ pub.award }}</span>{% endif %}
+    {% if pub.oral %}<span class="pub-badge pub-badge--oral"><i class="fas fa-microphone" aria-hidden="true"></i> Oral</span>{% endif %}
+    {% unless pub.type == "patent" %}<a class="pub-link" href="https://scholar.google.com/scholar?q={{ pub.title | url_encode }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Scholar</a>{% endunless %}
+    {% if pub.arxiv_id %}<a class="pub-link" href="https://arxiv.org/abs/{{ pub.arxiv_id }}"><i class="ai ai-arxiv" aria-hidden="true"></i> arXiv</a>{% endif %}
+    {% if pub.code_url %}<a class="pub-link" href="{{ pub.code_url }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>{% endif %}
+    {% if pub.video_url %}<a class="pub-link" href="{{ pub.video_url }}"><i class="fab fa-youtube" aria-hidden="true"></i> Video</a>{% endif %}
+    {% for p in pub.press %}<a class="pub-link pub-link--press" href="{{ p.url }}"><i class="fas fa-newspaper" aria-hidden="true"></i> {{ p.text }}</a>{% endfor %}
+  </p>
+</div>

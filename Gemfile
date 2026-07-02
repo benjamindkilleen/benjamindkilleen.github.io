@@ -1,29 +1,30 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# Standalone Jekyll 4 (no longer the github-pages managed gem). The site is
+# built and deployed by GitHub Actions (.github/workflows/deploy.yaml), so we
+# are free to use a current Jekyll and custom plugins.
+gem "jekyll", "~> 4.3"
 
-gem "github-pages", group: :jekyll_plugins
+# Keep the classic (LibSass) Sass converter. The theme's vendored Susy 2 and
+# breakpoint stylesheets rely on `@import` semantics that Dart Sass (the
+# converter 3.x default) rejects. Pinning ~> 2.0 lets the existing SCSS compile
+# unchanged. Do not bump to 3.x without migrating Susy/breakpoint to `@use`.
+gem "jekyll-sass-converter", "~> 2.0"
 
-# Silences "To use retry middleware with Faraday v2.0+, install `faraday-retry`"
+# Ruby 3+ no longer ships webrick; needed for `jekyll serve` (local preview).
+gem "webrick"
+
+# Silence deprecation warnings: bigdecimal leaves default gems in Ruby 3.4,
+# and octokit (via jekyll-gist) wants faraday-retry under Faraday 2.
+gem "bigdecimal"
 gem "faraday-retry"
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
-
-# gem "jekyll"
-
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
   gem "jekyll-feed"
-  gem 'jekyll-sitemap'
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-paginate"
+  gem "jekyll-redirect-from"
 end
+
+gem "wdm", "~> 0.1.1", platforms: [:mingw, :x64_mingw, :mswin]

@@ -1,0 +1,112 @@
+/* ==========================================================================
+   Publications list — auto-generated from the CV, rendered as cards
+   ========================================================================== */
+
+.pub-year {
+  margin: 1.5em 0 0.6em;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid $accent-color;
+  font-size: $type-size-3;
+}
+
+.pub-section-title {
+  margin: 2em 0 0.6em;
+  font-size: $type-size-3;
+}
+
+.pub-card {
+  margin: 0 0 1.1em;
+  padding: 0.9em 1.2em;
+  border: 1px solid $border-color;
+  border-left: 4px solid $border-color;
+  border-radius: 6px;
+  background: $background-color;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+
+  &--first {
+    border-left: 4px solid $accent-color;
+  }
+}
+
+.pub-title {
+  margin: 0 0 0.3em;
+  font-size: $type-size-4;
+  line-height: 1.3;
+
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+}
+
+.pub-authors {
+  margin: 0 0 0.15em;
+  font-size: $type-size-5;
+
+  strong { color: $accent-color; }
+  sup { font-size: 0.7em; }
+}
+
+.pub-venue {
+  margin: 0 0 0.3em;
+  color: $dark-gray;
+  font-size: $type-size-5;
+}
+
+.pub-note {
+  margin: 0 0 0.2em;
+  color: $gray;
+  font-size: $type-size-6;
+  font-style: italic;
+}
+
+.pub-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  align-items: center;
+  margin: 0.5em 0 0;
+}
+
+.pub-badge,
+.pub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  padding: 0.12em 0.7em;
+  border-radius: 999px;
+  font-size: $type-size-6;
+  line-height: 1.7;
+  white-space: nowrap;
+}
+
+.pub-badge {
+  font-weight: bold;
+
+  &--first {
+    background: mix(#fff, $accent-color, 84%);
+    color: mix(#000, $accent-color, 15%);
+  }
+  &--award {
+    background: mix(#fff, $warning-color, 78%);
+    color: mix(#000, $warning-color, 30%);
+  }
+  &--oral {
+    background: mix(#fff, $success-color, 80%);
+    color: mix(#000, $success-color, 40%);
+  }
+}
+
+.pub-link {
+  border: 1px solid $border-color;
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    background: $lighter-gray;
+    color: $accent-color;
+  }
+}

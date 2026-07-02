@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About Me"
+excerpt: "Postdoctoral researcher advancing AI and robotics for image-guided surgery"
 author_profile: true
 redirect_from:
   - /about/
@@ -18,7 +18,7 @@ A postdoctoral researcher at the [Technical University of Munich](https://www.tu
 My [recent work](https://scholar.google.com/citations?hl=en&user=QX7AvxUAAAAJ&view_op=list_works&sortby=pubdate)
 advances physics- and learning-based simulations -- from single image formation to room-scale
 environments -- as the basis for intelligent assistance systems and immersive educational
-experiences. I am a member of the [Chair for Computer Aided Medical Procedures](CAMP), led by [Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/).
+experiences. I am a member of the [Chair for Computer Aided Medical Procedures](https://www.cs.cit.tum.de/camp/), led by [Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/).
 In 2025, I received my Ph.D. in computer science from [Johns Hopkins University](https://cs.jhu.edu), where I was a part of the Advanced Robotics and Computationally Augmented Environments ([ARCADE](https://arcade.cs.jhu.edu/)) research group, led by [Mathias Unberath](https://mathiasunberath.github.io), and the Computation Interaction and Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)) led by [Greg Hager](https://www.cs.jhu.edu/hager/).
 I was a member of the [Siebel Scholar Class of 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/),
 which recognizes students at leading graduate schools of business, computer science, bioengineering, and energy science for their academic excellence and research contributions. 

@@ -1,0 +1,475 @@
+# AUTO-GENERATED from the CV LaTeX source by scripts/parse_publications.py.
+# Do not edit by hand: edit journals.tex / conferences.tex in the cv repo.
+- key: 3d-path-planning-for-robot-assisted-vertebroplasty-from-arbi
+  type: journal
+  first_author: false
+  title: 3D Path Planning for Robot-Assisted Vertebroplasty from Arbitrary Bi-plane X-ray via Differentiable
+    Rendering
+  authors: B. Inigo, B.D. Killeen, R. Choi, M. Song, A. Uneri, M. Khan, C. Bailey, A. Krieger, M. Unberath
+  authors_html: B. Inigo, <strong>B.D. Killeen</strong>, R. Choi, M. Song, A. Uneri, M. Khan, C. Bailey,
+    A. Krieger, M. Unberath
+  venue: Frontiers in Robotics and AI
+  year: 2026
+  oral: false
+- key: investigating-robot-control-policy-learning-for-autonomous-x
+  type: journal
+  first_author: false
+  title: Investigating Robot Control Policy Learning for Autonomous X-ray-guided Spine Procedures
+  authors: F. Klitzner, B. Inigo, B.D. Killeen, L. Seenivasan, M. Song, A. Krieger, M. Unberath
+  authors_html: F. Klitzner, B. Inigo, <strong>B.D. Killeen</strong>, L. Seenivasan, M. Song, A. Krieger,
+    M. Unberath
+  venue: International Journal of Computer Assisted Radiology and Surgery
+  year: 2026
+  oral: false
+- key: pub:pengwin
+  type: journal
+  first_author: false
+  title: 'Benchmark of Segmentation Techniques for Pelvic Fracture in CT and X-ray: Summary of the PENGWIN
+    2024 Challenge'
+  authors: Y. Sang, Y. Liu, S. Yibulayimu, Y. Wang, B.D. Killeen, M. Liu, P.-C. Ku, O. Johannsen, K. Gotkowski,
+    M. Zenk, K. Maier-Hein, F. Isensee, P. Yue, Y. Wang, H. Yu, Z. Pan, Y. He, X. Liang, D. Liu, F. Fan,
+    A. Jurgas, A. Skalski, Y. Ma, J. Yang, S. Płotka, R. Litka, G. Zhu, Y. Song, M. Unberath, M. Armand,
+    D. Ruan, S. K. Zhou, Q. Cao, C. Zhao, X. Wu, Y. Wang
+  authors_html: Y. Sang, Y. Liu, S. Yibulayimu, Y. Wang, <strong>B.D. Killeen</strong>, M. Liu, P.-C.
+    Ku, O. Johannsen, K. Gotkowski, M. Zenk, K. Maier-Hein, F. Isensee, P. Yue, Y. Wang, H. Yu, Z. Pan,
+    Y. He, X. Liang, D. Liu, F. Fan, A. Jurgas, A. Skalski, Y. Ma, J. Yang, S. Płotka, R. Litka, G. Zhu,
+    Y. Song, M. Unberath, M. Armand, D. Ruan, S. K. Zhou, Q. Cao, C. Zhao, X. Wu, Y. Wang
+  venue: Transactions on Medical Imaging
+  year: 2026
+  oral: false
+- key: pub:langtwin-2025
+  type: journal
+  first_author: true
+  title: Intelligent Control of Robotic X-ray Devices using a Language-Promptable Digital Twin
+  authors: B.D. Killeen, A. Suresh, C. Gomez, B. Inigo, C. Bailey, and M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, A. Suresh, C. Gomez, B. Inigo, C. Bailey, and M. Unberath
+  venue: International Journal of Computer Assisted Radiology and Surgery
+  year: 2025
+  award: Honored with the Best Paper Award at IPCAI'25
+  oral: false
+  notes:
+  - 'Special Issue: Information Processing in Computer-Assisted Interventions (IPCAI) 2025'
+- key: pub:aecai-2024
+  type: journal
+  first_author: true
+  title: 'StraightTrack: Towards Mixed Reality Navigation System for Percutaneous K-wire Insertion'
+  authors: Han Zhang*, B.D. Killeen*, Y.C. Ku, L. Seenivasan, Y. Zhao, M. Liu, Y. Yang, S. Gu, A. Martin-Gomez,
+    R.H. Taylor, G. Osgood, and M. Unberath
+  authors_html: Han Zhang<sup>*</sup>, <strong>B.D. Killeen</strong><sup>*</sup>, Y.C. Ku, L. Seenivasan,
+    Y. Zhao, M. Liu, Y. Yang, S. Gu, A. Martin-Gomez, R.H. Taylor, G. Osgood, and M. Unberath
+  venue: 'Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization'
+  year: 2024
+  oral: false
+  notes:
+  - 'Special Issue: Augmented Environments for Computer Assisted Interventions (AE-CAI) 2024'
+- key: gen-ai-enhancing-patient-education-in-cardiovascular-imaging
+  type: journal
+  first_author: false
+  title: 'Gen-AI: Enhancing Patient Education in Cardiovascular Imaging'
+  authors: A. Marey, A. Saad, B.D. Killeen, C. Gomez, M. Tregubova, M. Unberath, M. Umair
+  authors_html: A. Marey, A. Saad, <strong>B.D. Killeen</strong>, C. Gomez, M. Tregubova, M. Unberath,
+    M. Umair
+  venue: BJR|Open
+  year: 2024
+  oral: false
+- key: digital-twins-as-a-unifying-framework-for-surgical-data-scie
+  type: journal
+  first_author: false
+  title: 'Digital Twins as a Unifying Framework for Surgical Data Science: The Enabling Role of Geometric
+    Scene Understanding'
+  authors: H. Ding, L Seenivasan, B.D. Killeen, S.M. Cho, M. Unberath
+  authors_html: H. Ding, L Seenivasan, <strong>B.D. Killeen</strong>, S.M. Cho, M. Unberath
+  venue: Artificial Intelligence Surgery
+  year: 2024
+  oral: false
+  notes:
+  - Invited submission to the special issue on Surgical Data Science
+- key: applications-and-implementation-of-generative-artificial-int
+  type: journal
+  first_author: false
+  title: 'Applications and Implementation of Generative Artificial Intelligence in Cardiovascular Imaging
+    with a Focus on Ethical and Legal Considerations: What Cardiovascular Imagers Need to Know!'
+  authors: A. Marey, K.C. Serdysnki, B.D. Killeen, M. Unberath, M. Umair
+  authors_html: A. Marey, K.C. Serdysnki, <strong>B.D. Killeen</strong>, M. Unberath, M. Umair
+  venue: BJR| Artificial Intelligence
+  year: 2024
+  oral: false
+- key: pub:shoes-2024
+  type: journal
+  first_author: true
+  title: 'Stand in Surgeon''s Shoes: Virtual Reality Cross-training to Enhance Teamwork in Surgery'
+  authors: B.D. Killeen*, H. Zhang*, L. Wang, Z. Liu, C. Kleinbeck, M. Rosen, R.H. Taylor, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong><sup>*</sup>, H. Zhang<sup>*</sup>, L. Wang, Z. Liu, C. Kleinbeck,
+    M. Rosen, R.H. Taylor, M. Unberath
+  venue: International Journal of Computer Assisted Radiology and Surgery
+  year: 2024
+  award: Finalist for the Best Paper Award at IPCAI'24
+  oral: true
+  notes:
+  - Audience vote for long oral presentation at IPCAI'24
+  - 'Special Issue: Information Processing in Computer-Assisted Interventions (IPCAI) 2024'
+- key: pub:language-2024
+  type: journal
+  first_author: true
+  title: Take a Shot! Natural Language Control of Robotic X-ray Systems for Image-guided Surgery
+  authors: B.D. Killeen, S. Chaudhary, G. Osgood, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, S. Chaudhary, G. Osgood, M. Unberath
+  venue: International Journal of Computer Assisted Radiology and Surgery
+  year: 2024
+  oral: true
+  notes:
+  - Audience vote for long oral presentation at IPCAI'24
+  - 'Special Issue: Information Processing in Computer-Assisted Interventions (IPCAI) 2024'
+- key: pub:neural-2024
+  type: journal
+  first_author: false
+  title: 'Neural Digital Twins: Reconstructing Complex Medical Environments for Spatial Planning in Virtual
+    Reality'
+  authors: C. Kleinbeck, H. Zhang, B.D. Killeen, D. Roth, M. Unberath
+  authors_html: C. Kleinbeck, H. Zhang, <strong>B.D. Killeen</strong>, D. Roth, M. Unberath
+  venue: International Journal of Computer Assisted Radiology and Surgery
+  year: 2024
+  award: Honored with the Bench-to-Bedside Award at IPCAI'24
+  oral: true
+  notes:
+  - Audience vote for long oral presentation at IPCAI'24
+  - 'Special Issue: Information Processing in Computer-Assisted Interventions (IPCAI) 2024'
+- key: in-silico-simulation-a-key-enabling-technology-for-next-gene
+  type: journal
+  first_author: true
+  title: 'In Silico Simulation: A Key Enabling Technology for Next-generation Intelligent Surgical Systems'
+  authors: B.D. Killeen, S.M. Cho, M. Armand, R.H. Taylor, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, S.M. Cho, M. Armand, R.H. Taylor, M. Unberath
+  venue: Progress in Biomedical Engineering
+  year: 2023
+  oral: false
+  notes:
+  - Invited submission to the Special Issue on In Silico Trials
+- key: pub:autonomous-2023
+  type: journal
+  first_author: true
+  title: An Autonomous X-ray Image Acquisition and Interpretation System for Assisting Percutaneous Pelvic
+    Fracture Fixation
+  authors: B.D. Killeen, C. Gao, K. Oguine, S. Darcy, M. Armand, R.H. Taylor, G. Osgood, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, C. Gao, K. Oguine, S. Darcy, M. Armand, R.H. Taylor, G.
+    Osgood, M. Unberath
+  venue: International Journal of Computer Assisted Radiology and Surgery
+  year: 2023
+  award: Honorable Mention, Bench-to-Bedside Award at IPCAI'23
+  oral: true
+  notes:
+  - Audience vote for long oral presentation at IPCAI'23
+  - 'Special Issue: Information Processing in Computer-Assisted Interventions (IPCAI) 2023'
+- key: pub:synthex
+  type: journal
+  first_author: false
+  title: Synthetic Data Accelerates the Development of Generalizable Learning-based Algorithms for X-ray
+    Image Analysis
+  authors: C. Gao, B.D. Killeen, Y. Hu, R. Grupp, R.H. Taylor, M. Armand, M. Unberath
+  authors_html: C. Gao, <strong>B.D. Killeen</strong>, Y. Hu, R. Grupp, R.H. Taylor, M. Armand, M. Unberath
+  venue: Nature Machine Intelligence
+  year: 2023
+  oral: false
+  press:
+  - text: JHU Hub
+    url: https://hub.jhu.edu/2023/03/20/synthetic-data-outperform-real-data-robot-assisted-surgery/
+  - text: JHU News Letter
+    url: https://www.jhunewsletter.com/article/2023/04/synthetic-data-could-be-the-key-for-ai-applications-in-medicine
+  - text: Nature Robotics and AI collection
+    url: https://www.nature.com/immersive/robotics-ai/index.html
+- key: pub:aecai-2022
+  type: journal
+  first_author: true
+  title: Mixed Reality Interfaces for Achieving Desired Views with Robotic X-ray Systems
+  authors: B.D. Killeen, J. Winter, W. Gu, A. Martin-Gomez, R.H. Taylor, G. Osgood, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, J. Winter, W. Gu, A. Martin-Gomez, R.H. Taylor, G. Osgood,
+    M. Unberath
+  venue: 'Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization'
+  year: 2022
+  oral: false
+  notes:
+  - 'Special Issue: Augmented Environments for Computer Assisted Interventions (AE-CAI) 2020'
+- key: pub:good-robot
+  type: journal
+  first_author: false
+  title: '''Good Robot!'': Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real
+    Transfer'
+  authors: A. Hundt, B.D. Killeen, H. Kwon, C. Paxton, G.D. Hager
+  authors_html: A. Hundt, <strong>B.D. Killeen</strong>, H. Kwon, C. Paxton, G.D. Hager
+  venue: IEEE Robotics and Automation Letters
+  year: 2020
+  oral: false
+  press:
+  - text: JHU Hub
+    url: https://hub.jhu.edu/2020/10/26/positive-reinforcement-for-robots/
+  - text: Psychology Today
+    url: https://www.psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs
+  - text: BBC News
+    url: https://www.bbc.com/news/av/technology-54645279
+  - text: Voice of America
+    url: https://www.golosameriki.com/a/detali/5671254.html
+- key: equivalent-accuracy-accelerated-neural-network-training-usin
+  type: journal
+  first_author: false
+  title: Equivalent-accuracy accelerated neural-network training using analogue memory
+  authors: S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler, M. Giordano,
+    M. Bodini, N. Farinha, B.D. Killeen, C. Cheng, Y. Jaoudi, G. W. Burr
+  authors_html: S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler, M.
+    Giordano, M. Bodini, N. Farinha, <strong>B.D. Killeen</strong>, C. Cheng, Y. Jaoudi, G. W. Burr
+  venue: Nature
+  year: 2018
+  oral: false
+- key: pub:mmwave-body-comp
+  type: conference
+  first_author: true
+  title: Non-intrusive Body Composition Assessment from Full-body mmWave Scans
+  authors: M. Senne*, B.D. Killeen*, T. Wang, N. Navab
+  authors_html: M. Senne<sup>*</sup>, <strong>B.D. Killeen</strong><sup>*</sup>, T. Wang, N. Navab
+  venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  year: 2026
+  oral: false
+- key: pub:oscar
+  type: conference
+  first_author: false
+  title: 'OSCAR: Occupancy-based Shape Completion via Acoustic Neural Implicit Representations'
+  authors: M. Wysocki, K.B. Buldu, M. Gafencu, B.D. Killeen, M.F. Azampour, and N. Navab
+  authors_html: M. Wysocki, K.B. Buldu, M. Gafencu, <strong>B.D. Killeen</strong>, M.F. Azampour, and
+    N. Navab
+  venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  year: 2026
+  oral: false
+- key: pub:anatomygen
+  type: conference
+  first_author: false
+  title: 'AnatomyGen: Generating Anatomically Plausible Human Phantoms at High Resolution'
+  authors: G. Podobnik, N. Balodi, B.D. Killeen, T. Vrtovec M. Unberath
+  authors_html: G. Podobnik, N. Balodi, <strong>B.D. Killeen</strong>, T. Vrtovec M. Unberath
+  venue: International Workshop on Shape in Medical Imaging
+  year: 2025
+  oral: false
+- key: pub:fluorosam
+  type: conference
+  first_author: true
+  title: 'FluoroSAM: A Language-promptable Foundation Model for Flexible X-ray Image Segmentation'
+  authors: B.D. Killeen, L.J. Wang, B. Inigo, H. Zhang, M. Armand, R.H. Taylor, G. Osgood, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, L.J. Wang, B. Inigo, H. Zhang, M. Armand, R.H. Taylor,
+    G. Osgood, M. Unberath
+  venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  year: 2025
+  oral: false
+- key: cannula-mounted-robots-for-semi-autonomous-vertebroplasty-a-
+  type: conference
+  first_author: false
+  title: 'Cannula-mounted Robots for Semi-autonomous Vertebroplasty: A Comparison of Piezo and Screw Inchworm
+    Drive Designs'
+  authors: M.J. Song, B.D. Killeen, J.D. Opfermann, B. Inigo, C. Bailey, A. Uneri, M. Unberath, A. Krieger
+  authors_html: M.J. Song, <strong>B.D. Killeen</strong>, J.D. Opfermann, B. Inigo, C. Bailey, A. Uneri,
+    M. Unberath, A. Krieger
+  venue: International Symposium on Medical Robotics (ISMR)
+  year: 2025
+  oral: false
+- key: an-intrinsically-explainable-approach-to-detecting-vertebral
+  type: conference
+  first_author: false
+  title: An Intrinsically Explainable Approach to Detecting Vertebral Compression Fractures in CT Scans
+    via Neurosymbolic Modeling
+  authors: B. Inigo, Y. Shen, B.D. Killeen, M. Song, A. Krieger, C. Bradley, M. Unberath
+  authors_html: B. Inigo, Y. Shen, <strong>B.D. Killeen</strong>, M. Song, A. Krieger, C. Bradley, M.
+    Unberath
+  venue: SPIE Medical Imaging
+  year: 2025
+  oral: false
+- key: pub:pelphix
+  type: conference
+  first_author: true
+  title: 'Pelphix: Surgical Phase Recognition from X-ray Images in Percutaneous Pelvis Fixation'
+  authors: B.D. Killeen, H. Zhang, J.E. Mangulabnan, M. Armand, R. Taylor, G. Osgood, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, H. Zhang, J.E. Mangulabnan, M. Armand, R. Taylor, G. Osgood,
+    M. Unberath
+  venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  year: 2023
+  oral: false
+  press:
+  - text: JHU Hub
+    url: https://hub.jhu.edu/2023/11/20/machine-learning-pelvic-fracture-surgery/
+  - text: Surgery International
+    url: https://surgery.international/technology-to-revolutionise-pelvic-fracture-surgery/
+- key: pub:toward-perception-2022
+  type: conference
+  first_author: true
+  title: Toward Perception-based Anticipation of Cortical Breach During K-wire Fixation of the Pelvis
+  authors: B.D. Killeen, S. Chakraborty, G. Osgood, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, S. Chakraborty, G. Osgood, M. Unberath
+  venue: SPIE Medical Imaging
+  year: 2022
+  award: Runner up, Best Paper Award, Physics of Medical Imaging
+  oral: true
+- key: pub:feasibility-2021
+  type: conference
+  first_author: true
+  title: 'Feasibility of a Cannula-mounted Piezo Robot for Image-guided Vertebral Augmentation: Toward
+    a Low Cost, Semi-autonomous Approach'
+  authors: J. Opfermann*, B.D. Killeen*, C. Bailey, M. Khan, A. Uneri, K. Suzuki, M. Armand, F. Hui, A.
+    Krieger†, M. Unberath†
+  authors_html: J. Opfermann<sup>*</sup>, <strong>B.D. Killeen</strong><sup>*</sup>, C. Bailey, M. Khan,
+    A. Uneri, K. Suzuki, M. Armand, F. Hui, A. Krieger<sup>&dagger;</sup>, M. Unberath<sup>&dagger;</sup>
+  venue: IEEE International Conference on BioInformatics and BioEngineering (BIBE)
+  year: 2021
+  award: Honored with a Best Paper Award in Bioengineering
+  oral: false
+- key: neighborhood-normalization-for-robust-geometric-feature-lear
+  type: conference
+  first_author: true
+  title: Neighborhood Normalization for Robust Geometric Feature Learning
+  authors: X. Liu*, B.D. Killeen*, A. Sinha, M. Ishii, G. Hager, R. Taylor, M. Unberath
+  authors_html: X. Liu<sup>*</sup>, <strong>B.D. Killeen</strong><sup>*</sup>, A. Sinha, M. Ishii, G.
+    Hager, R. Taylor, M. Unberath
+  venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  year: 2021
+  oral: false
+- key: generalizing-spatial-transformers-to-projective-geometry-wit
+  type: conference
+  first_author: false
+  title: Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration
+  authors: C. Gao, X. Liu, W. Gu, B.D. Killeen, M. Armand, R. Taylor, M. Unberath
+  authors_html: C. Gao, X. Liu, W. Gu, <strong>B.D. Killeen</strong>, M. Armand, R. Taylor, M. Unberath
+  venue: Medical Image Computing and Computer Assisted Intervention
+  year: 2020
+  oral: false
+  code_url: https://github.com/gaocong13/Projective-Spatial-Transformers
+- key: extremely-dense-point-correspondences-in-multi-view-stereo-u
+  type: conference
+  first_author: false
+  title: Extremely Dense Point Correspondences in Multi-view Stereo using a Learned Feature Descriptor
+  authors: X. Liu, Y. Zhang, B.D. Killeen, M. Ishii, G. Hager, R. Taylor, M. Unberath
+  authors_html: X. Liu, Y. Zhang, <strong>B.D. Killeen</strong>, M. Ishii, G. Hager, R. Taylor, M. Unberath
+  venue: IEEE Conference on Computer Vision and Pattern Recognition
+  year: 2020
+  oral: false
+  code_url: https://github.com/lppllppl920/DenseDescriptorLearning-Pytorch
+- key: p-jepa-procedural-video-representation-learning-via-joint-em
+  type: preprint
+  first_author: false
+  title: 'P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture'
+  authors: F. Tristram, S. Gasperini, B.D. Killeen, M. Walch, C. Benz, N. Navab, G. Ghazaei
+  authors_html: F. Tristram, S. Gasperini, <strong>B.D. Killeen</strong>, M. Walch, C. Benz, N. Navab,
+    G. Ghazaei
+  venue: arXiv preprint
+  year: 2026
+  oral: false
+  arxiv_id: '2606.23256'
+- key: pub:ctsynthex
+  type: preprint
+  first_author: false
+  title: 2D Versus 3D Diffusion for In Silico Training of Interventional X-ray AI Models
+  authors: S. Rapuri, J. Ko, B.D. Killeen, R.H. Taylor, M. Unberath
+  authors_html: S. Rapuri, J. Ko, <strong>B.D. Killeen</strong>, R.H. Taylor, M. Unberath
+  venue: arXiv preprint
+  year: 2026
+  oral: false
+  arxiv_id: '2606.21414'
+- key: pub:mmwave-body-meas
+  type: preprint
+  first_author: false
+  title: Millimeter-wave Imaging for Anthropometric Body Measurement
+  authors: M. Senne, B.D. Killeen, C. Baur, N. Navab, A. Farshad
+  authors_html: M. Senne, <strong>B.D. Killeen</strong>, C. Baur, N. Navab, A. Farshad
+  venue: arXiv preprint
+  year: 2026
+  oral: false
+  arxiv_id: '2605.23064'
+- key: pub:spatiotemporal
+  type: preprint
+  first_author: false
+  title: A 4D Representation for Training-Free Agentic Reasoning from Monocular Laparoscopic Video
+  authors: M. Fehrentz, N. Stellwag, R. Wiebe, N. Thorisch, F. Grob, P. Remerscheid, K.J. Simmoteit, B.D.
+    Killeen, C. Heiliger, N. Navab
+  authors_html: M. Fehrentz, N. Stellwag, R. Wiebe, N. Thorisch, F. Grob, P. Remerscheid, K.J. Simmoteit,
+    <strong>B.D. Killeen</strong>, C. Heiliger, N. Navab
+  venue: arXiv preprint
+  year: 2026
+  oral: false
+  arxiv_id: '2604.00867'
+- key: row-by-row-convolutional-neural-networks-for-analog-ai
+  type: preprint
+  first_author: false
+  title: Row-by-row Convolutional Neural Networks for Analog-AI
+  authors: P. Narayanan, S. Ambrogio, C. Mackin, M. Ishii, B.D. Killeen, A. Okazaki, K. Hosokawa, J. Luquin,
+    A. Chen, A. Friz, M. Wang, S. Roy, S. Jain, H. Tsai, G.W. Burr
+  authors_html: P. Narayanan, S. Ambrogio, C. Mackin, M. Ishii, <strong>B.D. Killeen</strong>, A. Okazaki,
+    K. Hosokawa, J. Luquin, A. Chen, A. Friz, M. Wang, S. Roy, S. Jain, H. Tsai, G.W. Burr
+  venue: Research Square preprint
+  year: 2024
+  oral: false
+  doi: 10.21203/rs.3.rs-7853227/v1
+- key: pub:egosurg
+  type: preprint
+  first_author: false
+  title: Did You Just See That? Arbitrary View Synthesis for Egocentric Replay of Operating Room Workflows
+    from Ambient Sensors
+  authors: H. Zhang, L. Seenivasan, J. L. Porras, R. D. Soberanis-Mukul, H. Ding, H. Shu, B.D. Killeen,
+    A. Ghosh, L. Yarmus, M. Ishii, A. C. Argento, M. Unberath
+  authors_html: H. Zhang, L. Seenivasan, J. L. Porras, R. D. Soberanis-Mukul, H. Ding, H. Shu, <strong>B.D.
+    Killeen</strong>, A. Ghosh, L. Yarmus, M. Ishii, A. C. Argento, M. Unberath
+  venue: arXiv preprint
+  year: 2025
+  oral: false
+  arxiv_id: '2510.04802'
+- key: pub:ctsynth
+  type: preprint
+  first_author: true
+  title: Towards Virtual Clinical Trials of Radiology AI with Conditional Generative Modeling
+  authors: B.D. Killeen*, B. Wan*, A.V. Kulkarni, N. Drenkow, M. Oberst, P.H. Yi, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong><sup>*</sup>, B. Wan<sup>*</sup>, A.V. Kulkarni, N. Drenkow,
+    M. Oberst, P.H. Yi, M. Unberath
+  venue: arXiv preprint
+  year: 2024
+  oral: false
+  arxiv_id: '2502.09688'
+- key: pub:reproductive-rate-2020
+  type: preprint
+  first_author: true
+  title: Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in 1,417 U.S.
+    Counties
+  authors: J.Y. Wu*, B.D. Killeen*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Chakraborty, M. Unberath
+  authors_html: J.Y. Wu<sup>*</sup>, <strong>B.D. Killeen</strong><sup>*</sup>, P. Nikutta, M. Thies,
+    A. Zapaishchykova, S. Chakraborty, M. Unberath
+  venue: medRxiv preprint
+  year: 2020
+  oral: false
+- key: pub:county-level-2020
+  type: preprint
+  first_author: true
+  title: A County-level Dataset for Informing the United States' Response to COVID-19
+  authors: B.D. Killeen, J.Y. Wu, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane, S. Chakraborty,
+    J. Wei, T. Gao, M. Thies, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, J.Y. Wu, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane,
+    S. Chakraborty, J. Wei, T. Gao, M. Thies, M. Unberath
+  venue: arXiv preprint
+  year: 2020
+  award: The data described herein received a Kaggle COVID-19 Dataset Award
+  oral: false
+  code_url: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries
+  arxiv_id: '2004.00756'
+- key: natural-language-interface-for-imaging-system
+  type: patent
+  first_author: true
+  title: Natural Language Interface for Imaging System
+  authors: B.D. Killeen, M. Unberath
+  authors_html: <strong>B.D. Killeen</strong>, M. Unberath
+  venue: US Provisional Application Serial No. TBD
+  year: 2023
+  oral: false
+  notes:
+  - filed December 2023 (pending)
+- key: efficient-processing-of-convolutional-neural-network-layers-
+  type: patent
+  first_author: false
+  title: Efficient Processing of Convolutional Neural Network Layers Using Analog-memory-based Hardware
+  authors: G.W. Burr, B.D. Killeen
+  authors_html: G.W. Burr, <strong>B.D. Killeen</strong>
+  venue: US Application Serial No. 20200117986
+  year: 2019
+  oral: false
+  notes:
+  - filed March 25, 2019, issued April 16, 2020

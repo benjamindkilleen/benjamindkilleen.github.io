@@ -28,8 +28,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$global-font-family         : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+$header-font-family         : "Newsreader", Georgia, "Times New Roman", serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -65,6 +65,7 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
+$accent-color               : #0f6ea8; // brand accent (light refresh)
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +91,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $accent-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : mix(#000, $accent-color, 10%);
+$masthead-link-color-hover  : mix(#000, $accent-color, 35%);
 
 
 /*

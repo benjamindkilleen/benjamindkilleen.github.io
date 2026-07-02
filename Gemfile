@@ -11,6 +11,9 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# Silences "To use retry middleware with Faraday v2.0+, install `faraday-retry`"
+gem "faraday-retry"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
@@ -23,5 +26,4 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
 end

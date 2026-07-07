@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title: "Benjamin D. Killeen"
+description: "Benjamin D. Killeen is a postdoctoral researcher at the Technical University of Munich developing AI and robotics for image-guided surgery, surgical data science, and medical imaging."
 excerpt: "Postdoctoral researcher advancing AI and robotics for image-guided surgery"
 author_profile: true
 redirect_from:

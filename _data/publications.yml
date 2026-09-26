@@ -11,10 +11,10 @@
   venue: Frontiers in Robotics and AI
   year: 2026
   oral: false
-- key: investigating-robot-control-policy-learning-for-autonomous-x
+- key: investigating-robot-control-ppolicy-learning-for-autonomous-
   type: journal
   first_author: false
-  title: Investigating Robot Control Policy Learning for Autonomous X-ray-guided Spine Procedures
+  title: Investigating Robot Control Ppolicy Learning for Autonomous X-ray-guided Spine Procedures
   authors: F. Klitzner, B. Inigo, B.D. Killeen, L. Seenivasan, M. Song, A. Krieger, M. Unberath
   authors_html: F. Klitzner, B. Inigo, <strong>B.D. Killeen</strong>, L. Seenivasan, M. Song, A. Krieger,
     M. Unberath

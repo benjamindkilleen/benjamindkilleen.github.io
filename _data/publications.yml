@@ -238,6 +238,26 @@
   venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
   year: 2026
   oral: false
+- key: pub:ctsynthex
+  type: conference
+  first_author: false
+  title: 2D Versus 3D Diffusion for In Silico Training of Interventional X-ray AI Models
+  authors: S. Rapuri, J. Ko, B.D. Killeen, R.H. Taylor, M. Unberath
+  authors_html: S. Rapuri, J. Ko, <strong>B.D. Killeen</strong>, R.H. Taylor, M. Unberath
+  venue: MICCAI Workshop on Deep Generative Models (DGM4MICCAI)
+  year: 2026
+  oral: false
+- key: pub:ct-us-inr
+  type: conference
+  first_author: false
+  title: Deformable CT-US Registration via Anatomy-Aware Implicit Neural Representations
+  authors: A. Lach, M. Wysocki, F. Li, M.F. Azampour, B.D. Killeen, F. Ginzinger, M. Braun, P. Steininger,
+    H. Deutschmann, N. Navab
+  authors_html: A. Lach, M. Wysocki, F. Li, M.F. Azampour, <strong>B.D. Killeen</strong>, F. Ginzinger,
+    M. Braun, P. Steininger, H. Deutschmann, N. Navab
+  venue: MICCAI Workshop on Advances in Simplifying Medical Ultrasound (ASMUS)
+  year: 2026
+  oral: false
 - key: pub:anatomygen
   type: conference
   first_author: false
@@ -358,16 +378,6 @@
   year: 2026
   oral: false
   arxiv_id: '2606.23256'
-- key: pub:ctsynthex
-  type: preprint
-  first_author: false
-  title: 2D Versus 3D Diffusion for In Silico Training of Interventional X-ray AI Models
-  authors: S. Rapuri, J. Ko, B.D. Killeen, R.H. Taylor, M. Unberath
-  authors_html: S. Rapuri, J. Ko, <strong>B.D. Killeen</strong>, R.H. Taylor, M. Unberath
-  venue: arXiv preprint
-  year: 2026
-  oral: false
-  arxiv_id: '2606.21414'
 - key: pub:mmwave-body-meas
   type: preprint
   first_author: false
